@@ -1,0 +1,914 @@
+{
+    "data": [
+        {
+            "name": "University of Oxford",
+            "arwu_ranking": 2,
+            "guardian_ranking": 1,
+            "times_ranking": 1,
+            "link": "https://www.ucas.com/explore/uni-detail/351374e0-7548-01be-a996-dc560274708e"
+        },
+        {
+            "name": "University of Cambridge",
+            "arwu_ranking": 1,
+            "guardian_ranking": 3,
+            "times_ranking": 2,
+            "link": "https://www.ucas.com/explore/uni-detail/badc3603-5bb0-5a9d-d24f-4333c7658a0e"
+        },
+        {
+            "name": "Imperial College London",
+            "arwu_ranking": 4,
+            "guardian_ranking": 9,
+            "times_ranking": 3,
+            "link": "https://www.ucas.com/explore/uni-detail/52087408-312c-b1ee-f982-bc0eaf81d35f"
+        },
+        {
+            "name": "UCL (University College London)",
+            "arwu_ranking": 3,
+            "guardian_ranking": 14,
+            "times_ranking": 4,
+            "link": "https://www.ucas.com/explore/uni-detail/bd0c70d8-cc38-309f-cecb-34f0c195b137"
+        },
+        {
+            "name": "The University of Edinburgh",
+            "arwu_ranking": 6,
+            "guardian_ranking": 13,
+            "times_ranking": 6,
+            "link": "https://www.ucas.com/explore/uni-detail/114bb2e7-442a-d9fd-ee93-bdf998c6ca0e"
+        },
+        {
+            "name": "London School of Economics and Political Science",
+            "arwu_ranking": 17,
+            "guardian_ranking": 5,
+            "times_ranking": 5,
+            "link": "https://www.ucas.com/explore/uni-detail/25fe3db7-b8b4-4c71-029b-37a6ad3006fa"
+        },
+        {
+            "name": "University of Bristol",
+            "arwu_ranking": 8,
+            "guardian_ranking": 10,
+            "times_ranking": 11,
+            "link": "https://www.ucas.com/explore/uni-detail/69690f14-21d5-d03f-ece0-3148e62e461e"
+        },
+        {
+            "name": "University of Warwick",
+            "arwu_ranking": 15,
+            "guardian_ranking": 9,
+            "times_ranking": 8,
+            "link": "https://www.ucas.com/explore/uni-detail/e59d51a1-d4b5-314b-a01d-e013b9b51a80"
+        },
+        {
+            "name": "The University of Manchester",
+            "arwu_ranking": 5,
+            "guardian_ranking": 25,
+            "times_ranking": 8,
+            "link": "https://www.ucas.com/explore/uni-detail/01b03c44-38c1-56b2-1a0d-90720d6ce111"
+        },
+        {
+            "name": "The University of Glasgow",
+            "arwu_ranking": 18,
+            "guardian_ranking": 12,
+            "times_ranking": 11,
+            "link": "https://www.ucas.com/explore/uni-detail/e4c66810-05c8-fd1c-4e9e-a8072e3189e2"
+        },
+        {
+            "name": "Durham University",
+            "arwu_ranking": 21,
+            "guardian_ranking": 18,
+            "times_ranking": 4,
+            "link": "https://www.ucas.com/explore/uni-detail/6e455568-e42f-9d6a-49d3-d3af4f57443d"
+        },
+        {
+            "name": "University of Birmingham",
+            "arwu_ranking": 10,
+            "guardian_ranking": 12,
+            "times_ranking": 22,
+            "link": "https://www.ucas.com/explore/uni-detail/1d61dc76-ba6e-c6af-6cc0-879c71b5db5c"
+        },
+        {
+            "name": "University of Leeds",
+            "arwu_ranking": 11,
+            "guardian_ranking": 20,
+            "times_ranking": 18,
+            "link": "https://www.ucas.com/explore/uni-detail/b03b9d06-ac02-d7d8-dd09-5917f9efe4cb"
+        },
+        {
+            "name": "University of Southampton",
+            "arwu_ranking": 14,
+            "guardian_ranking": 15,
+            "times_ranking": 23,
+            "link": "https://www.ucas.com/explore/uni-detail/0f5d882f-2ebe-1b13-fc9d-98363e55d1d4"
+        },
+        {
+            "name": "The University of Sheffield",
+            "arwu_ranking": 9,
+            "guardian_ranking": 31,
+            "times_ranking": 14,
+            "link": "https://www.ucas.com/explore/uni-detail/dbd76d8b-f49a-679e-306f-eb59a8bdc52c"
+        },
+        {
+            "name": "King’s College London",
+            "arwu_ranking": 7,
+            "guardian_ranking": 7,
+            "times_ranking": 42,
+            "link": "https://www.ucas.com/explore/uni-detail/5fd4b1cc-6fb7-5a7c-0bf6-19f979c6cf36"
+        },
+        {
+            "name": "Lancaster University",
+            "arwu_ranking": 29,
+            "guardian_ranking": 17,
+            "times_ranking": 10,
+            "link": "https://www.ucas.com/explore/uni-detail/058545dd-9b74-4129-217d-dd59394240e8"
+        },
+        {
+            "name": "University of Exeter",
+            "arwu_ranking": 19,
+            "guardian_ranking": 24,
+            "times_ranking": 17,
+            "link": "https://www.ucas.com/explore/uni-detail/91fd2fa0-e5ec-efe7-eb46-db8f10a74059"
+        },
+        {
+            "name": "University of York",
+            "arwu_ranking": 28,
+            "guardian_ranking": 16,
+            "times_ranking": 16,
+            "link": "https://www.ucas.com/explore/uni-detail/f40210c2-c564-5bfc-ee3b-98ced83963b8"
+        },
+        {
+            "name": "London School of Hygiene & Tropical Medicine",
+            "arwu_ranking": 22,
+            "guardian_ranking": 30,
+            "times_ranking": 6,
+            "link": "https://www.ucas.com/explore/uni-detail/b137fc85-578c-7409-25b5-2fc7afbb6969"
+        },
+        {
+            "name": "University of Bath",
+            "arwu_ranking": 31,
+            "guardian_ranking": 2,
+            "times_ranking": 34,
+            "link": "https://www.ucas.com/explore/uni-detail/295cc6a3-2774-d00f-93ee-8a9bf8ae7d0b"
+        },
+        {
+            "name": "University of St Andrews",
+            "arwu_ranking": 33,
+            "guardian_ranking": 19,
+            "times_ranking": 38,
+            "link": "https://www.ucas.com/explore/uni-detail/81fe3292-5b22-efca-853a-e32870a2b0fe"
+        },
+        {
+            "name": "University of Nottingham",
+            "arwu_ranking": 13,
+            "guardian_ranking": 25,
+            "times_ranking": 20,
+            "link": "https://www.ucas.com/explore/uni-detail/79f42328-0271-1ace-1aec-05359cc16dd9"
+        },
+        {
+            "name": "University of Aberdeen",
+            "arwu_ranking": 26,
+            "guardian_ranking": 27,
+            "times_ranking": 37,
+            "link": "https://www.ucas.com/explore/uni-detail/3a023828-8d77-ecfa-dc21-2708f721b788"
+        },
+        {
+            "name": "Cardiff University",
+            "arwu_ranking": 16,
+            "guardian_ranking": 31,
+            "times_ranking": 19,
+            "link": "https://www.ucas.com/explore/uni-detail/e1c1ad69-f707-d0f7-35d7-baf04342e1ca"
+        },
+        {
+            "name": "University of Dundee",
+            "arwu_ranking": 30,
+            "guardian_ranking": 47,
+            "times_ranking": 7,
+            "link": "https://www.ucas.com/explore/uni-detail/bfcb0d31-ce4c-f762-62a2-aaa148d556bd"
+        },
+        {
+            "name": "University of Chichester",
+            "arwu_ranking": 29,
+            "guardian_ranking": 28,
+            "times_ranking": 39,
+            "link": "https://www.ucas.com/explore/uni-detail/b1f140f3-5bf6-f56d-b5e3-f94d95b11daf"
+        },
+        {
+            "name": "Loughborough University",
+            "arwu_ranking": 38,
+            "guardian_ranking": 22,
+            "times_ranking": 60,
+            "link": "https://www.ucas.com/explore/uni-detail/b935bbb7-cac6-ee2a-2df0-8cf09d7016c2"
+        },
+        {
+            "name": "University of East Anglia",
+            "arwu_ranking": 27,
+            "guardian_ranking": 26,
+            "times_ranking": 51,
+            "link": "https://www.ucas.com/explore/uni-detail/59590204-91b1-f9f8-de3f-924f0940515f"
+        },
+        {
+            "name": "University of Liverpool",
+            "arwu_ranking": 12,
+            "guardian_ranking": 21,
+            "times_ranking": 59,
+            "link": "https://www.ucas.com/explore/uni-detail/9a2e99c3-c568-12ae-bd18-488bc579b30d"
+        },
+        {
+            "name": "University for the Creative Arts",
+            "arwu_ranking": 33,
+            "guardian_ranking": 13,
+            "times_ranking": 68,
+            "link": "https://www.ucas.com/explore/uni-detail/1de3729b-81ac-5471-66cd-580a448cf823"
+        },
+        {
+            "name": "Newcastle University",
+            "arwu_ranking": 23,
+            "guardian_ranking": 37,
+            "times_ranking": 24,
+            "link": "https://www.ucas.com/explore/uni-detail/9528a5b4-845b-84f5-974e-92d025a75d1f"
+        },
+        {
+            "name": "University of Sussex",
+            "arwu_ranking": 20,
+            "guardian_ranking": 33,
+            "times_ranking": 46,
+            "link": "https://www.ucas.com/explore/uni-detail/6e856d76-a6f1-2fb0-93d8-94415e6bfa0e"
+        },
+        {
+            "name": "University of West London",
+            "arwu_ranking": 34,
+            "guardian_ranking": 35,
+            "times_ranking": 15,
+            "link": "https://www.ucas.com/explore/uni-detail/4b00d284-8af2-9520-230e-8e14993d398d"
+        },
+        {
+            "name": "Queen Mary University of London",
+            "arwu_ranking": 24,
+            "guardian_ranking": 59,
+            "times_ranking": 62,
+            "link": "https://www.ucas.com/explore/uni-detail/856d62c2-800c-07ea-e751-1bbae4c76f4b"
+        },
+        {
+            "name": "Brighton and Sussex Medical School",
+            "arwu_ranking": 35,
+            "guardian_ranking": 32,
+            "times_ranking": 54,
+            "link": "https://www.ucas.com/explore/uni-detail/0bdd99ec-94bd-bc58-47d4-b550b55aa1b2"
+        },
+        {
+            "name": "Swansea University",
+            "arwu_ranking": 45,
+            "guardian_ranking": 21,
+            "times_ranking": 32,
+            "link": "https://www.ucas.com/explore/uni-detail/4b70e003-9056-dea2-e186-1dc3ad3316c9"
+        },
+        {
+            "name": "St George's, University of London",
+            "arwu_ranking": 39,
+            "guardian_ranking": 36,
+            "times_ranking": 30,
+            "link": "https://www.ucas.com/explore/uni-detail/9b3207d7-e4ec-a455-62b5-8ce00d1194c9"
+        },
+        {
+            "name": "Queen’s University Belfast",
+            "arwu_ranking": 29,
+            "guardian_ranking": 41,
+            "times_ranking": 35,
+            "link": "https://www.ucas.com/explore/uni-detail/3e45ece0-e028-cc61-58ac-43f91dc2f3f0"
+        },
+        {
+            "name": "University of Strathclyde",
+            "arwu_ranking": 36,
+            "guardian_ranking": 50,
+            "times_ranking": 78,
+            "link": "https://www.ucas.com/explore/uni-detail/5cc768aa-774a-7fc8-97fb-686b2f068676"
+        },
+        {
+            "name": "The University of Reading",
+            "arwu_ranking": 25,
+            "guardian_ranking": 46,
+            "times_ranking": 28,
+            "link": "https://www.ucas.com/explore/uni-detail/c283b1b0-f407-0c6f-ca7d-c63b2604f5cc"
+        },
+        {
+            "name": "University of the West of England",
+            "arwu_ranking": 60,
+            "guardian_ranking": 23,
+            "times_ranking": 27,
+            "link": "https://www.ucas.com/explore/uni-detail/b79a4cbd-f530-3251-06b9-99ec0d90d1fb"
+        },
+        {
+            "name": "University of Surrey",
+            "arwu_ranking": 34,
+            "guardian_ranking": 42,
+            "times_ranking": 36,
+            "link": "https://www.ucas.com/explore/uni-detail/5ea13bf3-a5ff-0ec1-873b-f3842afb46a6"
+        },
+        {
+            "name": "Royal Holloway, University of London",
+            "arwu_ranking": 52,
+            "guardian_ranking": 48,
+            "times_ranking": 53,
+            "link": "https://www.ucas.com/explore/uni-detail/5b13b3ae-6a43-53a5-7382-2c010763dd54"
+        },
+        {
+            "name": "Aston University",
+            "arwu_ranking": 46,
+            "guardian_ranking": 62,
+            "times_ranking": 49,
+            "link": "https://www.ucas.com/explore/uni-detail/89c29ffe-ffc3-f10a-42b6-d3bead98a923"
+        },
+        {
+            "name": "Heriot-Watt University",
+            "arwu_ranking": 49,
+            "guardian_ranking": 56,
+            "times_ranking": 26,
+            "link": "https://www.ucas.com/explore/uni-detail/5c658fd1-ce3f-ca66-401d-5f38b48c89af"
+        },
+        {
+            "name": "University of Leicester",
+            "arwu_ranking": 32,
+            "guardian_ranking": 43,
+            "times_ranking": 82,
+            "link": "https://www.ucas.com/explore/uni-detail/edaad69a-3b51-1473-8b7d-49f70afcfb32"
+        },
+        {
+            "name": "University of Stirling",
+            "arwu_ranking": 65,
+            "guardian_ranking": 49,
+            "times_ranking": 85,
+            "link": "https://www.ucas.com/explore/uni-detail/20b2137b-2930-80ed-337f-27127a9f1d28"
+        },
+        {
+            "name": "University of the Arts London",
+            "arwu_ranking": 45,
+            "guardian_ranking": 70,
+            "times_ranking": 41,
+            "link": "https://www.ucas.com/explore/uni-detail/9928464e-bb25-4e0f-be6d-1373b4d28306"
+        },
+        {
+            "name": "Northumbria University",
+            "arwu_ranking": 63,
+            "guardian_ranking": 40,
+            "times_ranking": 66,
+            "link": "https://www.ucas.com/explore/uni-detail/408b9be4-df53-0595-e1f4-8c3a701c0682"
+        },
+        {
+            "name": "Keele University",
+            "arwu_ranking": 44,
+            "guardian_ranking": 57,
+            "times_ranking": 76,
+            "link": "https://www.ucas.com/explore/uni-detail/5e07e833-7099-0cde-fea9-55afd4644bb2"
+        },
+        {
+            "name": "Abertay University",
+            "arwu_ranking": 48,
+            "guardian_ranking": 39,
+            "times_ranking": 71,
+            "link": "https://www.ucas.com/explore/uni-detail/1558119a-fa4d-ca42-ddbd-0694a4e9bdc8"
+        },
+        {
+            "name": "Bolton",
+            "arwu_ranking": 50,
+            "guardian_ranking": 77,
+            "times_ranking": 52,
+            "link": "https://www.ucas.com/explore/uni-detail/88e1a042-03f5-c63b-5bf8-d78622277c4e"
+        },
+        {
+            "name": "University of Plymouth",
+            "arwu_ranking": 42,
+            "guardian_ranking": 64,
+            "times_ranking": 73,
+            "link": "https://www.ucas.com/explore/uni-detail/250ab332-bd0a-3163-e03a-2a1f16466346"
+        },
+        {
+            "name": "Birkbeck, University of London",
+            "arwu_ranking": 61,
+            "guardian_ranking": 51,
+            "times_ranking": 96,
+            "link": "https://www.ucas.com/explore/uni-detail/a5e9ffc8-b187-f126-52ed-3d89a146b445"
+        },
+        {
+            "name": "Aberystwyth University",
+            "arwu_ranking": 60,
+            "guardian_ranking": 54,
+            "times_ranking": 110,
+            "link": "https://www.ucas.com/explore/uni-detail/168d2cd8-ad19-7681-d665-453cfb2e55f0"
+        },
+        {
+            "name": "Coventry University",
+            "arwu_ranking": 62,
+            "guardian_ranking": 80,
+            "times_ranking": 95,
+            "link": "https://www.ucas.com/explore/uni-detail/dfed9a6a-89c6-d0c1-e3b9-ccc3ab651bc5"
+        },
+        {
+            "name": "University of Kent",
+            "arwu_ranking": 41,
+            "guardian_ranking": 63,
+            "times_ranking": 53,
+            "link": "https://www.ucas.com/explore/uni-detail/aa22c216-8919-508e-5893-8167c8ab6c57"
+        },
+        {
+            "name": "Bournemouth University",
+            "arwu_ranking": 52,
+            "guardian_ranking": 43,
+            "times_ranking": 103,
+            "link": "https://www.ucas.com/explore/uni-detail/22e93c90-ca5f-983e-8c2a-f215d4e544d3"
+        },
+        {
+            "name": "University of Essex",
+            "arwu_ranking": 40,
+            "guardian_ranking": 61,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/91f1f141-d376-4883-0afa-65d325c06ed0"
+        },
+        {
+            "name": "Liverpool School of Tropical Medicine",
+            "arwu_ranking": 55,
+            "guardian_ranking": 45,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/ff27f6b2-9ff1-46da-3cb3-86442eac2b3d"
+        },
+        {
+            "name": "London Business School",
+            "arwu_ranking": 56,
+            "guardian_ranking": 40,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/32d682dc-fcc9-b0ec-778a-fbc7924494a6"
+        },
+        {
+            "name": "Nottingham Trent University",
+            "arwu_ranking": 51,
+            "guardian_ranking": 44,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/9698b0cc-2162-611f-edae-2e26d58ea92f"
+        },
+        {
+            "name": "Royal Veterinary College, University of London",
+            "arwu_ranking": 57,
+            "guardian_ranking": 78,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/f2b98edd-bd3f-2d36-a0e3-f4e70b878c16"
+        },
+        {
+            "name": "University of Portsmouth",
+            "arwu_ranking": 43,
+            "guardian_ranking": 63,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/039b8331-636f-6c80-ba3f-47b93af8ccb5"
+        },
+        {
+            "name": "Bangor University",
+            "arwu_ranking": 47,
+            "guardian_ranking": 47,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/89c29ffe-ffc3-f10a-42b6-d3bead98a923"
+        },
+        {
+            "name": "SRUC Scotland's Rural College",
+            "arwu_ranking": 58,
+            "guardian_ranking": 64,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/ba944ca6-36af-188e-40a1-324e839230de"
+        },
+        {
+            "name": "University of Wales Trinity Saint David",
+            "arwu_ranking": 58,
+            "guardian_ranking": 56,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/ff1a14b9-1214-76dc-340b-3822d9ea6c72"
+        },
+        {
+            "name": "Liverpool John Moores University",
+            "arwu_ranking": 50,
+            "guardian_ranking": 61,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/b4d790d4-6257-fa90-60eb-31b5fc917ad1"
+        },
+        {
+            "name": "Anglia Ruskin University ARU",
+            "arwu_ranking": 38,
+            "guardian_ranking": 43,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/d890f3a3-4c8e-f241-747b-fa2f1b5f87db"
+        },
+        {
+            "name": "University of Lincoln",
+            "arwu_ranking": 64,
+            "guardian_ranking": 70,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/970c6a07-9cd0-a0f1-ec3e-19c7f2529f2b"
+        },
+        {
+            "name": "Oxford Brookes University",
+            "arwu_ranking": 79,
+            "guardian_ranking": 83,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/d422b186-8335-d857-34a8-7ce618a55de0"
+        },
+        {
+            "name": "University of Hull",
+            "arwu_ranking": 54,
+            "guardian_ranking": 77,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/ac1fb4b5-6103-57d1-d967-3ecb926af5ae"
+        },
+        {
+            "name": "City University London",
+            "arwu_ranking": 48,
+            "guardian_ranking": 86,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/0e86a0cf-a483-a7c3-63a7-e62d825349f7"
+        },
+        {
+            "name": "Kingston University",
+            "arwu_ranking": 87,
+            "guardian_ranking": 74,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/4d6287f3-52f5-a2ce-f369-918c5e1e12bc"
+        },
+        {
+            "name": "Brunel University",
+            "arwu_ranking": 37,
+            "guardian_ranking": 72,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/42121682-7b82-3e70-6acf-9c726942a1e4"
+        },
+        {
+            "name": "Queen Margaret University, Edinburgh",
+            "arwu_ranking": 65,
+            "guardian_ranking": 55,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/403c3afa-827f-7f37-55c1-9c5d403335c7"
+        },
+        {
+            "name": "The Open University",
+            "arwu_ranking": 53,
+            "guardian_ranking": 69,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/7f559a95-6b5f-41eb-1fd9-54f3f34b21c3"
+        },
+        {
+            "name": "Edinburgh Napier University",
+            "arwu_ranking": 72,
+            "guardian_ranking": 79,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/dc3ccbfc-cc9a-a614-e70a-12f74560c026"
+        },
+        {
+            "name": "Sheffield Hallam University",
+            "arwu_ranking": 91,
+            "guardian_ranking": 86,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/af611462-ca90-dadf-f0e8-d4cc25129f91"
+        },
+        {
+            "name": "University of Huddersfield",
+            "arwu_ranking": 75,
+            "guardian_ranking": 111,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/c666f13c-3fb7-0b03-4f67-eeaeba301103"
+        },
+        {
+            "name": "University of Derby",
+            "arwu_ranking": 84,
+            "guardian_ranking": 99,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/008ac8a8-f655-e436-a163-a5e3d16adab7"
+        },
+        {
+            "name": "Ulster University",
+            "arwu_ranking": 80,
+            "guardian_ranking": 67,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/b0c96a45-5ad1-7f8b-1e71-073221059886"
+        },
+        {
+            "name": "Robert Gordon University",
+            "arwu_ranking": 99,
+            "guardian_ranking": 102,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/5a3cac22-f05b-20b5-d281-c122d1490650"
+        },
+        {
+            "name": "Manchester Metropolitan University",
+            "arwu_ranking": 76,
+            "guardian_ranking": 75,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/bb9bf30f-81f9-01ac-51d3-40c9aa40e63e"
+        },
+        {
+            "name": "Solent University (Southampton)",
+            "arwu_ranking": 74,
+            "guardian_ranking": 81,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/f92b2692-af07-4b91-95a0-fc33c3f33bf6"
+        },
+        {
+            "name": "Birmingham City University",
+            "arwu_ranking": 67,
+            "guardian_ranking": 120,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/24d90a06-9489-417d-0d89-7474079c1477"
+        },
+        {
+            "name": "Glasgow Caledonian University",
+            "arwu_ranking": 73,
+            "guardian_ranking": 119,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/5cffcbbb-1d1f-46ed-c25d-28119a85c6c2"
+        },
+        {
+            "name": "SOAS University of London",
+            "arwu_ranking": 65,
+            "guardian_ranking": 93,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/63840f6d-a848-3256-1729-a2f36734d1a7"
+        },
+        {
+            "name": "University of Greenwich",
+            "arwu_ranking": 58,
+            "guardian_ranking": 106,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/2c82b225-5a2f-3032-abfa-dd476e8b04c9"
+        },
+        {
+            "name": "Cardiff Metropolitan University",
+            "arwu_ranking": 82,
+            "guardian_ranking": 104,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/777de2ea-20ca-30db-9e05-6e3d2dcd7d69"
+        },
+        {
+            "name": "Staffordshire University",
+            "arwu_ranking": 101,
+            "guardian_ranking": 112,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/38236ddf-b8b2-e1fc-ec2f-6dda0a630eb0"
+        },
+        {
+            "name": "Goldsmiths, University of London",
+            "arwu_ranking": 105,
+            "guardian_ranking": 121,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/a8aae742-488b-7a13-16a1-acd04ed91125"
+        },
+        {
+            "name": "Teesside University, Middlesbrough",
+            "arwu_ranking": 92,
+            "guardian_ranking": 116,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/b46d1424-48eb-18c7-b84c-ae0a0799dcfc"
+        },
+        {
+            "name": "University of Central Lancashire",
+            "arwu_ranking": 83,
+            "guardian_ranking": 113,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/6533bebc-ace6-ea95-2c03-43a2395834dd"
+        },
+        {
+            "name": "University of Hertfordshire",
+            "arwu_ranking": 59,
+            "guardian_ranking": 114,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/e2cc6194-be8e-763e-fb4b-931c35a169b0"
+        },
+        {
+            "name": "Middlesex University",
+            "arwu_ranking": 55,
+            "guardian_ranking": 117,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/5692045c-9274-b50e-8467-fb52ce4ef728"
+        },
+        {
+            "name": "University of Bradford",
+            "arwu_ranking": 68,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/627021f2-a3e9-a197-dca4-29e7d70bc6ca"
+        },
+        {
+            "name": "University of South Wales",
+            "arwu_ranking": 100,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/a33ecb69-a317-4e2c-6143-e665fdb20b14"
+        },
+        {
+            "name": "Liverpool Hope University",
+            "arwu_ranking": 84,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/78c33534-76bb-35d4-7324-dd7e69f3cd18"
+        },
+        {
+            "name": "University of Brighton",
+            "arwu_ranking": 69,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/27ea792a-79c2-71e4-f4d1-80b08d62b00a"
+        },
+        {
+            "name": "Edge Hill University",
+            "arwu_ranking": 97,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/44f558c0-37c7-2d78-eace-fa532d9add4c"
+        },
+        {
+            "name": "University of Worcester",
+            "arwu_ranking": 87,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/62431d8f-c60b-58bb-0df6-e80b0dc05c48"
+        },
+        {
+            "name": "University of Gloucestershire",
+            "arwu_ranking": 88,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/aa1a1601-6d0b-4513-dd8f-e4e481144d84"
+        },
+        {
+            "name": "University of Chester",
+            "arwu_ranking": 96,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/09d21dac-cccb-5d5e-1c6e-28598e8cbbe8"
+        },
+        {
+            "name": "Falmouth University",
+            "arwu_ranking": 89,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/13fe6f4f-d7a5-2d5b-6a39-23922b3922e5"
+        },
+        {
+            "name": "University of Northampton",
+            "arwu_ranking": 90,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/1f6ba907-0961-cb7c-54be-14d6a47439b0"
+        },
+        {
+            "name": "York St John University",
+            "arwu_ranking": 91,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/6d0cfb92-5817-1f26-10d0-52e6e2c1123c"
+        },
+        {
+            "name": "Buckinghamshire New University",
+            "arwu_ranking": 92,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/592fda96-d70c-6b24-bde0-051047b0d6f7"
+        },
+        {
+            "name": "University of the West of Scotland",
+            "arwu_ranking": 66,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/d064e8a8-954c-2d57-1aec-e099af852d0a"
+        },
+        {
+            "name": "University of Winchester",
+            "arwu_ranking": 94,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/34ba7b64-9643-c8e7-1709-02bcf2e15551"
+        },
+        {
+            "name": "De Montfort University",
+            "arwu_ranking": 71,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/6d06ed34-78f3-acef-c9b9-24ec161e7639"
+        },
+        {
+            "name": "London South Bank University",
+            "arwu_ranking": 98,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/b8a3b6cb-f484-8bf8-3a8e-3d44c636cbd8"
+        },
+        {
+            "name": "Leeds Beckett University",
+            "arwu_ranking": 88,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/059b84a8-9224-10b5-6526-b2331e526138"
+        },
+        {
+            "name": "University of Salford",
+            "arwu_ranking": 90,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/07fe4a70-9239-e4cb-813c-ae2f7715336f"
+        },
+        {
+            "name": "University of Suffolk",
+            "arwu_ranking": 97,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/cf271b96-f9f1-4eef-e308-bb33fe18a91a"
+        },
+        {
+            "name": "University of Cumbria",
+            "arwu_ranking": 98,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/ee20f1e0-76fd-86be-4f36-ffa8d1a1505a"
+        },
+        {
+            "name": "University of East London",
+            "arwu_ranking": 85,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/6d89f913-12f6-c979-28f1-9721878fac41"
+        },
+        {
+            "name": "University of Sunderland",
+            "arwu_ranking": 100,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/5f968715-d4b4-afb5-e842-8a4a024feb0d"
+        },
+        {
+            "name": "University of Bedfordshire",
+            "arwu_ranking": 81,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/3261960f-0635-6329-ccde-717b18f97592"
+        },
+        {
+            "name": "St Mary's University, Twickenham",
+            "arwu_ranking": 101,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/1264b52a-16b1-e13e-31e1-246da0955bd1"
+        },
+        {
+            "name": "University of Roehampton",
+            "arwu_ranking": 89,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/895f238c-14a8-283a-a1d6-067e959dd858"
+        },
+        {
+            "name": "University of Wolverhampton",
+            "arwu_ranking": 94,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/0a5af9c9-f05a-bf52-fce5-c89917335f67"
+        },
+        {
+            "name": "Canterbury Christ Church University",
+            "arwu_ranking": 95,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/24bec0e2-0d56-c578-e599-c2a9c9d0bbd2"
+        },
+        {
+            "name": "University of Westminster, London",
+            "arwu_ranking": 93,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/0ad2bf41-bb38-0b1b-ec75-acf0845530a7"
+        },
+        {
+            "name": "Glyndwr University, Wrexham",
+            "arwu_ranking": 107,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/fdb6a3ab-185d-286d-e06f-f97135cade7f"
+        },
+        {
+            "name": "Newman University, Birmingham",
+            "arwu_ranking": 108,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/11ac4ef6-cdf2-0e8f-fa19-6f8ad173178e"
+        },
+        {
+            "name": "Bath Spa",
+            "arwu_ranking": 109,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/29a67da9-98b0-5cb7-294d-ffdc3e463904"
+        },
+        {
+            "name": "Leeds Trinity",
+            "arwu_ranking": 115,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/10bb36d7-3ad8-4a90-efc1-d6ce93dc54b8"
+        },
+        {
+            "name": "London Met",
+            "arwu_ranking": 118,
+            "guardian_ranking": 0,
+            "times_ranking": 0,
+            "link": "https://www.ucas.com/explore/uni-detail/36dc6feb-81b2-d5b7-eabf-33396c2683a2"
+        }
+    ]
+}

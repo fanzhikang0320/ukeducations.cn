@@ -1,0 +1,334 @@
+.school-detail-container {
+    width: $rootWidth;
+    margin: 0 auto;
+    position: relative;
+    .school-detail-left {
+        width: 960px;
+        .school-info-box {
+
+            .title-box {
+                display: flex;
+                align-items: center;
+                margin-top: 30px;
+                .name-box {
+                    .Chinese-name {
+                        font-size: 36px;
+                        color: #101010;
+                        font-family: 'PangMenZhengDao';
+                        font-weight: normal;
+                        line-height: 35px;
+                    }
+                    .English-name {
+                        font-size: 24px;
+                        color: #A29F9F;
+                    }
+                }
+
+                .logo {
+                    display: inline-block;
+                    height: 100px;
+                    margin-left: 40px;
+                }
+            }
+
+            .video-box {
+                display: flex;
+                width: 100%;
+                height: 400px;
+                margin-top: 10px;
+                margin-bottom: 45px;
+                .current-video-box {
+                    width: 720px;
+                    height: 400px;
+                    .current-video {
+                        width: 100%;
+                        height: 100%;
+                    }
+                }
+
+                .video-list {
+                    li {
+                        position: relative;
+                        width: 240px;
+                        height: 130px;
+                        margin-bottom: 4px;
+                        &:nth-last-of-type(1) {
+                            margin-bottom: 0;
+                        }
+
+                        video {
+                            width: 100%;
+                            height: 100%;
+                        }
+
+                        .mask-video {
+                            position: absolute;
+                            left: 0;
+                            top: 0;
+                            // z-index: 2;
+                            width: 100%;
+                            height: 100%;
+                            background-color: rgba(0,0,0,.65);
+                            cursor: pointer;
+                            .icon {
+                                position: absolute;
+                                left: 50%;
+                                top: 50%;
+                                transform: translate(-50%,-50%);
+                                font-size: 45px;
+                                color: #ffffff;
+                            }
+                        }
+                    }
+                };
+            }
+
+            .desc-box {
+                .desc-title {
+                    font-weight: bold;
+                    font-size: 20px;
+                    color: #101010;
+                    margin-bottom: 10px;
+                }
+                .content {
+                    line-height: 25px;
+                }
+            }
+        }
+        .table-box {
+            width: 100%;
+            margin: 50px 0px;
+            border: 1px solid #bbbbbb;
+
+            tr {
+                display: flex;
+                border-bottom: 1px solid #bbbbbb;
+                td {
+                    display: flex;
+                    align-items: center;
+                    min-height: 70px;
+                    box-sizing: border-box;
+                    padding: 0 20px;
+                    border-right: 1px solid #bbbbbb;
+                    .e,.c {
+                        display: block;
+                    }
+                    .c {
+                        font-size: 18px;
+                        font-weight: bold;
+                    }
+                    .key {
+                        color: #A29F9F;
+                    }
+                    .val {
+                        color: #101010;
+                        margin-left: 8px;
+
+                        .link {
+                            color: #2F8FF3;
+                            text-decoration-line: underline;
+                            text-decoration-color: #2F8FF3;
+                            font-weight: bold;
+                            font-size: 16px;
+                            &:hover {
+                                color: #1268DB;
+                                text-decoration-color: #1268DB;
+                            }
+                        }
+
+                        .score {
+                            color: #2F8FF3;
+                            font-size: 25px;
+                            margin-left: 20px;
+                        }
+                    }
+
+                    &:nth-last-of-type(1) {
+                        border: none;
+                    }
+                }
+
+                &:nth-last-of-type(1) {
+                    border: none;
+                }
+            }
+
+            .logo {
+                display: inline-block;
+                height: 60px;
+                width: 110px;
+            }
+        }
+        .comments-box {
+            .comments-title {
+                font-size: 20px;
+                color: #101010;
+                font-weight: bold;
+                margin-bottom: 10px;
+            }
+            .comments-content {
+                line-height: 26px;
+            }
+        }
+        .school-img-box {
+            margin-top: 40px;
+            margin-bottom: 60px;
+            .title {
+                font-size: 20px;
+                font-weight: bold;
+                color: #101010;
+                text-align: center;
+                margin-bottom: 15px;
+            }
+            .img-box {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                img {
+                    display: inline-block;
+                    width: 300px;
+                    height: 180px;
+                    margin: 0 5px;
+                }
+            }
+        }
+        .contact-area {
+            margin-top: 40px;
+            background-color: #F2F7FF;
+        }
+    }
+
+    .fixed-container {
+        position: absolute;
+        right: 0;
+        top: 30px;
+        background-color: #ffffff;
+        .similar_school {
+            width: 200px;
+            .title {
+                font-size: 20px;
+                font-weight: bold;
+                color: #101010;
+            }
+
+            dd {
+                margin: 12px 0px;
+                width: 100%;
+                box-sizing: border-box;
+                height: 85px;
+                border: 2px solid #E5EFFF;
+                display: flex;
+                align-items: center;
+                padding: 0 5px;
+                cursor: pointer;
+                transition: all linear 0.1s;
+                box-shadow: 0px 0px 0px rgba(0,0,0,0);
+                .logo {
+                    display: inline-block;
+                    width: 80px;
+                    height: 43px;
+                    margin-right: 5px;
+                }
+
+                &:hover {
+                    box-shadow: 0px 2px 6px #d2dff5;
+                }
+            }
+        }
+    }
+}
+
+.school-detail-container {
+    @media screen and (max-width: 750px){
+        width: 100%;
+
+        .school-detail-left {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 0 15px;
+
+            .school-info-box {
+                .title-box {
+                    .name-box {
+                        .Chinese-name {
+                            font-size: 24px;
+                        }
+                        .English-name {
+                            font-size: 18px;
+                        }
+                    }
+                    .logo {
+                        height: 80px;
+                        margin-left: 15px;
+                    }
+                }
+                .video-box {
+                    height: 200px;
+                    width: 100%;
+                    .current-video-box {
+                        width: 100%;
+                        height: 100%;
+                    }
+                    .video-list {
+                        display: none;
+                    }
+                }
+            }
+
+            
+
+            .table-box {
+                border: none;
+                margin: 25px  0px;
+                tr {
+                    flex-direction: column;
+                    border: none;
+                    td {
+                        border-right: none;
+                        border-bottom: 1px solid #bbbbbb;
+                        height: auto;
+                        padding: 10px 10px;
+                        &:nth-last-of-type(1) {
+                            border-bottom: 1px solid #bbbbbb;
+                        }
+                        .c{
+                            font-size: 15px;
+                        }
+                        .e {
+                            font-size: 12px;
+                        }
+                        .logo {
+                            height: 100px;
+                            width: auto;
+                        }
+                        .val {
+                            .link {
+                                font-size: 14px;
+                                word-break: break-all;
+                            }
+                            .score {
+                                font-size: 20px;
+                                margin-left: 0;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .school-img-box {
+                .img-box {
+                    flex-direction: column;
+
+                    img {
+                        width: 100%;
+                        height: auto;
+                        margin: 5px 0px;
+                    }
+                }
+            }
+        }
+        .fixed-container {
+            display: none;
+        }
+    }
+}

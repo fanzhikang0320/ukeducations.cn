@@ -1,0 +1,2046 @@
+{
+    "data": [
+        
+        {
+            "name": {
+                "Chinese": "布鲁克豪斯学院",
+                "English": "Brooke House College"
+            },
+            "tuition": "35,700-39,000",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.brookehousecollege.co.uk/",
+            "totalStudents": 270,
+            "totalResidentStudent": 256,
+            "highScore": 60,
+            "description": "<p>布鲁克豪斯学院成立于1967年，位于英格兰中部的Market Harborough镇，这是一座环境优美，宁静安逸的小城，当地居民善良好客。学校享有英国私立延续和高等教育认证委员会的认可，并且是私立延续教育委员会的成员，教育质量受到此机构的定期评估和监督而得以保证。</p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/BrookeHouse.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/BrookeHouse-1.jpg","//static.westwin.com/ukeducation/dataImg/BrookeHouse-2.jpg","//static.westwin.com/ukeducation/dataImg/BrookeHouse-3.jpg"],
+            "video": ["//static.westwin.com/ukeducation/video/BrookeHouse.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "布鲁克豪斯学院生活中的一天",
+                "content": "<p>在这里，不仅可以学到各种知识，了解各国文化和进行体育训练，更可以发掘自身潜力，学会如何充满信心地面对挑战和如何做一个有责任心的公民。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 70,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSE，A-Level，大学预科" ,
+                "English": "iGCSE,A-Level,pre-university"
+            },
+            "location": {
+                "Chinese": "英格兰中部" , 
+                "English": "Central England"
+            },
+            "towns": {
+                "Chinese": "莱斯特" ,
+                 "English": "Leicester"
+                },
+            "address": {
+                "Chinese": "Market Harborough, Leicestershire, LE16 7AU, England" ,
+                "English": "Market Harborough, Leicestershire, LE16 7AU, England"
+            },
+            "type": "international",
+            "boardingType": ["full"],
+            "postcode": "LE16 7AU"
+        },
+        {
+            "name": {
+                "Chinese": "圣弗朗西斯学院",
+                "English": "St. Francis College"
+            },
+            "tuition": "34,350",
+            "sex": "girl",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.st-francis.herts.sch.uk/",
+            "totalStudents": 350,
+            "totalResidentStudent": 50,
+            "highScore": 92,
+            "description": "<p>圣弗朗西斯学院成立于1933年，学校环境优美，交通便利，位于赫特福德郡的Letchworth Garden City中心，乘火车到伦敦市中心仅需1小时。该校是一所走读兼寄宿的顶尖女校，学生年龄为4-18岁。</p><p>学校实行小班制授课，为学生提供无微不至的关怀和丰富的课外活动，同时也为国际学生提供语言辅导课程，以帮助海外学生更好的适应学习与生活。圣弗朗西斯学院致力于在精神、品德、学术、创造力方面为学生提供全方位的发展空间。</p><p>学校为在学术，音乐和体育方面表现优秀的学生提供丰厚的奖学金，从而鼓励学生们追求自己的兴趣。学校的设施也极其完善 – 为住宿生提供高质量的住宿条件，宿舍有公共休息室和游戏室，以满足学生们课外娱乐休息的需求；始建于1924年的运动馆和剧院可供学生们在此进行各项体育活动以及音乐剧的演出；此外，学校还设有20米长的室内游泳池。</p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/St.Francis.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/St.Francis-1.jpg","//static.westwin.com/ukeducation/dataImg/St.Francis-2.jpg","//static.westwin.com/ukeducation/dataImg/St.Francis-3.jpg"],
+            "video": ["//static.westwin.com/ukeducation/video/St-Francis-1.MOV","//static.westwin.com/ukeducation/video/St-Francis-2.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "圣弗朗西斯学院生活的一天",
+                "content": "<p>您的孩子最早可以从6年级开始在圣弗朗西斯学院选择寄宿制学习，尽管大多数都是选择全日制寄宿， 当然我们也可以提供选择周寄宿制或弹性寄宿制的方式。</p><p>学校宿舍拥有温馨的家庭氛围，并由经验丰富的宿舍管理员和学术辅导员提供支持。 寄宿生活具有丰富的社交生活，这意味着女孩们可以将与朋友一起享受生活的乐趣！</p><p>我们学校拥有您所期望的一切，甚至超越您的期待：拥有330个座位的专用剧院，20米的室内温水游泳池，体育馆，舞蹈室，曲棍球场， 以及五个篮球场和网球场。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 92,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSE，A-level" ,
+                "English": "iGCSE，A-level"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "赫特福德郡" ,
+                 "English": "Letchworth Garden City"
+                },
+            "address": {
+                "Chinese": "Broadway, Letchworth Garden City, Hertfordshire, SG6 3PJ" ,
+                "English": "Broadway, Letchworth Garden City, Hertfordshire, SG6 3PJ"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "SG6 3PJ"
+        },
+        {
+            "name": {
+                "Chinese": "阿博茨霍尔姆学校",
+                "English": "Abbotsholme School"
+            },
+            "tuition": "33,750",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.abbotsholme.co.uk/",
+            "totalStudents": 290,
+            "totalResidentStudent": 85,
+            "highScore": 77,
+            "description": "<p>圣弗朗西斯学院成立于1933年，学校环境优美，交通便利，位于赫特福德郡的Letchworth Garden City中心，乘火车到伦敦市中心仅需1小时。该校是一所走读兼寄宿的顶尖女校，学生年龄为4-18岁。</p><p>学校实行小班制授课，为学生提供无微不至的关怀和丰富的课外活动，同时也为国际学生提供语言辅导课程，以帮助海外学生更好的适应学习与生活。圣弗朗西斯学院致力于在精神、品德、学术、创造力方面为学生提供全方位的发展空间。</p><p>学校为在学术，音乐和体育方面表现优秀的学生提供丰厚的奖学金，从而鼓励学生们追求自己的兴趣。学校的设施也极其完善 – 为住宿生提供高质量的住宿条件，宿舍有公共休息室和游戏室，以满足学生们课外娱乐休息的需求；始建于1924年的运动馆和剧院可供学生们在此进行各项体育活动以及音乐剧的演出；此外，学校还设有20米长的室内游泳池。</p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0010_Abbotsholme-School.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/Abbotsholme-img-1.jpg","//static.westwin.com/ukeducation/dataImg/Abbotsholme-img-2.jpg","//static.westwin.com/ukeducation/dataImg/Abbotsholme-img-3.jpg"],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Abbotsholme School生活中的一天",
+                "content": "<p>在Abbotsholme School，我们希望所有寄宿生都感到：环境安全，寄宿生活开心，受教育得到支持， 并融入学校生活。在我们学校宗旨的框架内工作，鼓励寄宿生按照以下原则生活：在学校内外生活：诚实，尊重，正直，勇气和谦卑。</p><p>我们努力提供一个环境，使我们的男孩和女孩成长为平衡，快乐的青少年和成年人，他们能够在生活中做出适当的决定。我们希望我们的寄宿生能够自我意识，独立并相互作为个人来重视。</p><p>寄宿生由工作人员在乡村环境中的小型寄宿房中提供支持。给他们一个结构化的框架，并在必要时给予个人支持，使他们能够发挥自己的学术潜力。</p><p>寄宿生在学校内外都能获得各种体验，旨在帮助他们成长为个人和社区的一部分。寄宿生在学校内外都能获得各种体验，旨在帮助他们成长为个人和社区的一部分。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 60,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "GCSEs, B-TEC (Levels 2 & 3), A-Levels" ,
+                "English": "GCSEs, B-TEC (Levels 2 & 3), A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰中部" , 
+                "English": "Central England"
+            },
+            "towns": {
+                "Chinese": "尤托克西特" ,
+                 "English": "Uttoxeter"
+                },
+            "address": {
+                "Chinese": "" ,
+                "English": ""
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": ""
+        },
+        {
+            "name": {
+                "Chinese": "艾克沃斯学校",
+                "English": "Ackworth School"
+            },
+            "tuition": "31,560",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "",
+            "totalStudents": 480,
+            "totalResidentStudent": 90,
+            "highScore": 61.7,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0009_Ackworth-School.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Ackworth School生活中的一天",
+                "content": "<p></p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 85,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "GCSEs, A-Levels, Cambridge Technical" ,
+                "English": "GCSEs, A-Levels, Cambridge Technical"
+            },
+            "location": {
+                "Chinese": "英格兰东北" , 
+                "English": "North-East England"
+            },
+            "towns": {
+                "Chinese": "艾科沃斯" ,
+                 "English": "Ackworth"
+                },
+            "address": {
+                "Chinese": "艾克沃斯学校" ,
+                "English": "Pontefract Road, Ackworth, West Yorkshire, WF7 7LT"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "WF7 7LT"
+        },
+        {
+            "name": {
+                "Chinese": "科巴姆国际学校",
+                "English": "ACS Cobham School"
+            },
+            "tuition": "48,760",
+            "sex": "mixed",
+            "age": [
+                
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.acs-schools.com/cobham/china-page",
+            "totalStudents": 1200,
+            "totalResidentStudent": 140,
+            "highScore": 50,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/ACS.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/ACS-img-1.jpg","//static.westwin.com/ukeducation/dataImg/ACS-img-2.jpg","//static.westwin.com/ukeducation/dataImg/ACS-img-3.jpg"],
+            "video": ["//static.westwin.com/ukeducation/video/ACS-Cobham-1.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "ACS Cobham 生活中的一天",
+                "content": "<p>我喜欢在ACS Cobham学校读书，设施很棒，为我们提供了放松身心的机会，同时也专注于我们的学习。我必须保持良好的工作生活平衡，而ACS Cobham提供了这一点很重要。寄宿家庭父母对学生如何安排自己的生活真的很开放，我认为这很重要，他们也非常支持</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 12,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "IB,AP" ,
+                "English": "IB,AP"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "科巴姆" ,
+                 "English": "Cobham"
+                },
+            "address": {
+                "Chinese": "科巴姆国际学校" ,
+                "English": "ACS Cobham, Portsmouth Road, Cobham, Surrey, KT11 1BL"
+            },
+            "type": "international",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "KT11 1BL"
+        },
+        {
+            "name": {
+                "Chinese": "百肖普斯托学院",
+                "English": "Bishopstrow College"
+            },
+            "tuition": "38,100",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.bishopstrow.com",
+            "totalStudents": 96,
+            "totalResidentStudent": 96,
+            "highScore": 0,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0008_Bishopstrow-College.png",
+            "photos": [],
+            "video": ["//static.westwin.com/ukeducation/video/bishopstrow-1.mp4","//static.westwin.com/ukeducation/video/bishopstrow-2.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "Bishopstrow College 生活中的一天",
+                "content": "<p>Bishopstrow College对我来说是最好的准备，因为它不仅为我的下一所学校提供了学术上的准备，而且使我有机会体验了寄宿学校生活。 学校教了我学术英语，英国体育以及英国文化，尤其是美食！ 我有很多机会与来自不同国家的其他学生交流，因为这是我第一次出国。 我现在对下一步前往Concord College感到很兴奋。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 130,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSEs" ,
+                "English": "iGCSEs"
+            },
+            "location": {
+                "Chinese": "英格兰西南" , 
+                "English": "Southwest England"
+            },
+            "towns": {
+                "Chinese": "百肖普斯托" ,
+                 "English": "Bishopstrow, Warminster "
+                },
+            "address": {
+                "Chinese": "百肖普斯托学院" ,
+                "English": "Barrow House, Bishopstrow Road, Bishopstrow, Warminster, Wiltshire, BA12 9HU"
+            },
+            "type": "international",
+            "boardingType": ["full"],
+            "postcode": "BA12 9HU"
+        },
+        {
+            "name": {
+                "Chinese": "波科斯·希尔中学",
+                "English": "Box Hill School"
+            },
+            "tuition": "34,245",
+            "sex": "mixed",
+            "age": [
+                
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.boxhillschool.com/",
+            "totalStudents": 425,
+            "totalResidentStudent": 148,
+            "highScore": 56,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/BoxHill.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Box Hill School 生活中的一天",
+                "content": "<p>我们有一个出色的学习支持部门，能够为一些需要额外帮助的学生提供支持（无论是读写能力，计算能力，学习技能等），这是通过我们学习支持部门内的1：1节课程，即常规课程之外进行的课堂学习的。 学生每周可能有1或2个单独的学习支持课程（会不断进行审核），并且轮换学习，这样就不会错过核心科目，并且每个星期学生都不会错过同一堂课。 预计所有7至9年级的学生都将学习法语和西班牙语，并且所有学生都应是课堂中的独立学习者。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 41,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "GCSEs, A-Levels" ,
+                "English": "GCSEs, A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "米克蓝姆镇" ,
+                 "English": "Surrey Hills of Dorking"
+                },
+            "address": {
+                "Chinese": "波科斯·希尔中学" ,
+                "English": "Box Hill School, London Road, Mickleham, Dorking, RH5 6EA"
+            },
+            "type": "international",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "RH5 6EA"
+        },
+        {
+            "name": {
+                "Chinese": "埃尔斯米尔学院",
+                "English": "Ellesmere College"
+            },
+            "tuition": "34,533",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.ellesmere.com/",
+            "totalStudents": 550,
+            "totalResidentStudent": 220,
+            "highScore": 35,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0006_Ellesmere-College.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/Ellesmere-img-1.jpg","//static.westwin.com/ukeducation/dataImg/Ellesmere-img-2.jpg","//static.westwin.com/ukeducation/dataImg/Ellesmere-img-3.jpg"],
+            "video": ["//static.westwin.com/ukeducation/video/Ellesmere-1.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "Ellesmere College 生活的一天",
+                "content": "<p></p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 70,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB, University foundation programme" ,
+                "English": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB, University foundation programme"
+            },
+            "location": {
+                "Chinese": "英格兰西北" , 
+                "English": "North West England"
+            },
+            "towns": {
+                "Chinese": "埃尔斯米尔" ,
+                 "English": "Ellesmere"
+                },
+            "address": {
+                "Chinese": "埃尔斯米尔学院" ,
+                "English": "Ellesmere, Shropshire, Sy12 9AB, UK"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "Sy12 9AB"
+        },
+        {
+            "name": {
+                "Chinese": "肯特潘伯瑞女子中学",
+                "English": "Kent College Pembury"
+            },
+            "tuition": "34,419",
+            "sex": "girl",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "http://www.kent-college.co.uk/",
+            "totalStudents": 500,
+            "totalResidentStudent": 70,
+            "highScore": 49,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0005_Kent-College-Pembury.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Kent College Pembury 生活的一天",
+                "content": "<p></p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 56,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, A-Levels" ,
+                "English": "iGCSEs, GCSEs, A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "坦布里奇韦尔斯区" ,
+                 "English": "Tunbridge Wells "
+                },
+            "address": {
+                "Chinese": "肯特潘伯瑞女子中学" ,
+                "English": "Kent College Pembury, Old Church Road, Pembury, Tunbridge Wells, Kent, TN2 4AX, UK"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "TN2 4AX"
+        },
+        {
+            "name": {
+                "Chinese": "KINGS 伯恩茅斯",
+                "English": "KINGS Bournemouth"
+            },
+            "tuition": "33,795",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.kingseducation.com/uk-uni/kings-bournemouth",
+            "totalStudents": 200,
+            "totalResidentStudent": 90,
+            "highScore": 50,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0004_KINGS-Bournemouth.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/kings-bournemouth-img-1.jpg","//static.westwin.com/ukeducation/dataImg/kings-bournemouth-img-2.jpg","//static.westwin.com/ukeducation/dataImg/kings-bournemouth-img-3.jpg"],
+            "video": ["//static.westwin.com/ukeducation/video/kings-bournemouth-1.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "KINGS Bournemouth 生活的一天",
+                "content": "<p>刚到校时，他就花了几个小时与我讨论择校事宜。相比其他同学，我的申请递交很晚，由于我迟迟不能作出最终决定。然后当我最终决定并做出学校选择后。Sean老师为我付出非常多，他尽全力帮助我申请，最终我收到了所有申请学校的录取通知书！我真的非常感谢他为我提供的帮助。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 141,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSE,GCSE, A-level, 大学预科" ,
+                "English": "iGCSE,GCSE, A-level,pre-university"
+            },
+            "location": {
+                "Chinese": "英格兰西南" , 
+                "English": "Southwest England"
+            },
+            "towns": {
+                "Chinese": "伯恩茅斯" ,
+                 "English": "Bournemouth"
+                },
+            "address": {
+                "Chinese": "KINGS 伯恩茅斯" ,
+                "English": "58 Braidley Road Bournemouth Dorset BH2 6LD England"
+            },
+            "type": "international",
+            "boardingType": ["flexi"],
+            "postcode": "BH2 6LD"
+        },
+        {
+            "name": {
+                "Chinese": "KINGS 布莱顿",
+                "English": "KINGS BRIGHTON"
+            },
+            "tuition": "34,795",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.kingseducation.com/uk-uni/kings-brighton",
+            "totalStudents": 200,
+            "totalResidentStudent": 70,
+            "highScore": 50,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0004_KINGS-Bournemouth.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/kings-brighton-img-1.jpg","//static.westwin.com/ukeducation/dataImg/kings-brighton-img-2.jpg","//static.westwin.com/ukeducation/dataImg/kings-brighton-img-3.jpg"],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "KINGS BRIGHTON 生活的一天",
+                "content": "<p>在Kings Brighton，老师们都很友好，在我A Level的学习过程中帮助我很多。 额外的数学和物理课为我解决了很多有关课程的难题，使我对课程产生了浓厚的兴趣。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 44,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSE, GCSE, A-level, 大学预科" ,
+                "English": "iGCSE, GCSE, A-level,pre-university"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "布莱顿" ,
+                 "English": "BRIGHTON"
+                },
+            "address": {
+                "Chinese": "KINGS 布莱顿" ,
+                "English": "27 - 33 Ditchling Road Brighton BN1 4SB England"
+            },
+            "type": "international",
+            "boardingType": ["flexi"],
+            "postcode": "BN1 4SB"
+        },
+        {
+            "name": {
+                "Chinese": "Kings 伦敦",
+                "English": "Kings London"
+            },
+            "tuition": "35,658",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.kingseducation.com/uk-uni/kings-london",
+            "totalStudents": 250,
+            "totalResidentStudent": 100,
+            "highScore": 40,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0004_KINGS-Bournemouth.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/kings-london-img-1.jpg","//static.westwin.com/ukeducation/dataImg/kings-london-img-2.jpg","//static.westwin.com/ukeducation/dataImg/kings-london-img-3.jpg"],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Kings London 生活的一天",
+                "content": "<p>Kings最棒的是老师们的积极态度，从我第一次参观学校时就已经感受到。这一点增强了我的信心，使我坚信自己有能力到达医学专业要求的成绩；学校给予我很多校园生活中很重要的建议和支持，从A Level 科目选择到大学申请指导。老师非常有经验并且十分负责，他们耐心且乐于解答所有疑问；小班教学有助于复杂主题的教学。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 58,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSE,A-level, 大学预科" ,
+                "English": "iGCSE,A-level,pre-university"
+            },
+            "location": {
+                "Chinese": "伦敦" , 
+                "English": "London"
+            },
+            "towns": {
+                "Chinese": "贝肯汉姆" ,
+                 "English": "Beckenham"
+                },
+            "address": {
+                "Chinese": "Kings 伦敦" ,
+                "English": "25 -27 Beckenham Road Beckenham BR3 4PR England"
+            },
+            "type": "international",
+            "boardingType": ["flexi"],
+            "postcode": "BR3 4PR"
+        },
+        {
+            "name": {
+                "Chinese": "KINGS 牛津",
+                "English": "KINGS OXFORD"
+            },
+            "tuition": "35,658",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.kingseducation.com/uk-uni/kings-oxford",
+            "totalStudents": 250,
+            "totalResidentStudent": 125,
+            "highScore": 86,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0004_KINGS-Bournemouth.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/kings-oxford-img-1.jpg","//static.westwin.com/ukeducation/dataImg/kings-oxford-img-2.jpg","//static.westwin.com/ukeducation/dataImg/kings-oxford-img-3.jpg"],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "KINGS OXFORD 生活的一天",
+                "content": "<p>我只想对学校的所有帮助，耐心和友善表示感谢。</p><p>我记得Ewa在幼儿园的时候，也记得她在华沙办公室与Nick Addy的会面。 在过去的两年中，Kings对她的影响很大。 她以最积极和不可思议的方式发生着改变。 Ewa现在是一位聪明的年轻女士。 Kings牛津校区给予了她学术知识，朋友和许多美好的回忆。 在Kings的旅程使他变得更加坚强。 她非常努力，但是学校给了她指导和支持，我要说声“谢谢”。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 70,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSE,GCSE,A-level, 大学预科" ,
+                "English": "iGCSE,GCSE,A-level,pre-university"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "牛津" ,
+                 "English": "oxford"
+                },
+            "address": {
+                "Chinese": "KINGS 牛津" ,
+                "English": "St Josephs Campus, Temple Road, Cowley, Oxford OX4 2UJ"
+            },
+            "type": "international",
+            "boardingType": ["flexi"],
+            "postcode": "OX4 2UJ"
+        },
+        {
+            "name": {
+                "Chinese": "派德沃斯学院",
+                "English": "Padworth College"
+            },
+            "tuition": "30,750",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.padworth.com",
+            "totalStudents": 120,
+            "totalResidentStudent": 100,
+            "highScore": 56,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0003_Padworth-College.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/padworth-img-1.jpg","//static.westwin.com/ukeducation/dataImg/padworth-img-2.jpg","//static.westwin.com/ukeducation/dataImg/Padworth-QR-Code.png"],
+            "video": ["//static.westwin.com/ukeducation/video/Padworth-College-Video-1.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "Padworth College 生活的一天",
+                "content": "<p>我当时在Padworth College男生寄宿区学习生活，我非常喜欢那里的每个人，包括去年的毕业生，短期学员，宿舍管理员和清洁人员！ 我对我们漫长而深刻的周末聊天，半竞争性的FIFA锦标赛以及周三的足球充满了美好的回忆。 我建立了可以一生的友谊，并永远怀念着我的回忆</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 55,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, A-Levels, University foundation programme " ,
+                "English": "iGCSEs, GCSEs, A-Levels, University foundation programme "
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "派德沃斯" ,
+                 "English": "Padworth, Reading"
+                },
+            "address": {
+                "Chinese": "派德沃斯学院" ,
+                "English": "Sopers Lane, Padworth, Reading, Berkshire, RG7 4NR"
+            },
+            "type": "international",
+            "boardingType": ["full"],
+            "postcode": "RG7 4NR"
+        },
+        {
+            "name": {
+                "Chinese": "英国TASIS",
+                "English": "TASIS England"
+            },
+            "tuition": "47,565",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.tasisengland.org/",
+            "totalStudents": 650,
+            "totalResidentStudent": 185,
+            "highScore": 35,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/TASIS-logo.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "",
+                "content": "<p></p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 11,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "IB, AP, American High School Diploma" ,
+                "English": "IB, AP, American High School Diploma"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "萨里郡索普市" ,
+                 "English": "Thorpe/Surrey"
+                },
+            "address": {
+                "Chinese": "英国TASIS" ,
+                "English": "Coldharbour Lane, Thorpe, Surrey. TW20 8TE"
+            },
+            "type": "international",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "TW20 8TE"
+        },
+        {
+            "name": {
+                "Chinese": "陶顿中学",
+                "English": "Taunton School"
+            },
+            "tuition": "34,380",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.tauntonschool.co.uk/",
+            "totalStudents": 1016,
+            "totalResidentStudent": 380,
+            "highScore": 62,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/_0001_Taunton-School.png",
+            "photos": ["//static.westwin.com/ukeducation/dataImg/Taunton-img-1.jpg","//static.westwin.com/ukeducation/dataImg/Taunton-img-2.jpg","//static.westwin.com/ukeducation/dataImg/Taunton-img-3.jpg"],
+            "video": ["//static.westwin.com/ukeducation/video/Taunton-school-1.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "Taunton School 生活的一天",
+                "content": "<p></p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 60,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB, University foundation programme" ,
+                "English": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB, University foundation programme"
+            },
+            "location": {
+                "Chinese": "英格兰西南" , 
+                "English": "Southwest England"
+            },
+            "towns": {
+                "Chinese": "陶顿" ,
+                 "English": "Taunton"
+                },
+            "address": {
+                "Chinese": "陶顿中学" ,
+                "English": "Taunton School, Staplegrove Road, Taunton, Somerset, TA2 6AD"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "TA2 6AD"
+        },
+        {
+            "name": {
+                "Chinese": "雷斯中学",
+                "English": "The Leys school"
+            },
+            "tuition": "34,245",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.theleys.net",
+            "totalStudents": 574,
+            "totalResidentStudent": 395,
+            "highScore": 79,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/The-Leys-school.png",
+            "photos": [],
+            "video": ["//static.westwin.com/ukeducation/video/The-Leys-school-1.mp4","//static.westwin.com/ukeducation/video/The-Leys-school-2.mp4","//static.westwin.com/ukeducation/video/The-Leys-school-3.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "",
+                "content": "<p></p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 41,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "GCSEs, A-Levels" ,
+                "English": "GCSEs, A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰中部" , 
+                "English": "Central England"
+            },
+            "towns": {
+                "Chinese": "剑桥" ,
+                 "English": "Cambridge"
+                },
+            "address": {
+                "Chinese": "雷斯中学" ,
+                "English": "Trumpington Road"
+            },
+            "type": "mainstream",
+            "boardingType": ["full"],
+            "postcode": "CB2 7AD"
+        },
+        {
+            "name": {
+                "Chinese": "布伦特伍德学校",
+                "English": "Brentwood School"
+            },
+            "tuition": "39,381",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "3",
+                    "max": "18"
+                }
+            ],
+            "website": "http://www.brentwoodschool.co.uk",
+            "totalStudents": 1835,
+            "totalResidentStudent": 70,
+            "highScore": 84.7,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/brentwood-school.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "",
+                "content":  "",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 43,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB",
+                "English": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "Brentwood" ,
+                 "English": "Brentwood"
+                },
+            "address": {
+                "Chinese": "Brentwood School" ,
+                "English": "Middleton Hall Lane, Brentwood, Essex CM15 8EE"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","day"],
+            "postcode": "CM15 8EE"
+        },
+        {
+            "name": {
+                "Chinese": "卡迪夫学院",
+                "English": "Cardiff Sixth Form College"
+            },
+            "tuition": "44,100",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "15",
+                    "max": "19"
+                }
+            ],
+            "website": "https://www.ccoex.com/",
+            "totalStudents": 360,
+            "totalResidentStudent": 305,
+            "highScore": 100,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/cardiff-sixth-form-college.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Cardiff Sixth Form College生活的一天",
+                "content": "<p>我会记得在在卡迪夫努力学习的一切，让我认识到努力才有回报。我在学习和选课上获得了很多的支持，如果没有根据我的个人陈述获得足够的选课信息，这是我无法实现的。我非常感谢你们Kampas先生，Grimes先生和Davies女士等教学人员在我整个CSFC期间为我所做的一切。</p>",
+                "student": {
+                    "name": "王一舒",
+                    "age": "",
+                    "location": "太原"
+                }
+            },
+            "airportDistance": 23,
+            "foodChoices": true,
+            "EAL": false,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSE，A-levels",
+                "English": "iGCSE，A-levels"
+            },
+            "location": {
+                "Chinese": "威尔士" , 
+                "English": "Wales"
+            },
+            "towns": {
+                "Chinese": "卡迪夫" ,
+                 "English": "Cardiff"
+                },
+            "address": {
+                "Chinese": "Cardiff Sixth Form College" ,
+                "English": "1-3 Trinity Court, 21-27 Newport Road, Cardiff, CF24 0AA "
+            },
+            "type": "international",
+            "boardingType": ["full"],
+            "postcode": "CF24 0AA"
+        },
+        {
+            "name": {
+                "Chinese": "雷顿公园学校",
+                "English": "Leighton Park School"
+            },
+            "tuition": "37,170",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.leightonpark.com",
+            "totalStudents": 517,
+            "totalResidentStudent": 148,
+            "highScore": 37,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/Leighton-Park-School.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Leighton Park School生活的一天",
+                "content": "<p>自2018年10月以来，我在LP度过了美好的两年，在这里我可以称自己的第二故乡。独自留学并不是一件容易的事，但是我在这里结识了很多人，并且结了一些好朋友。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 42,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB",
+                "English": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "Reading" ,
+                 "English": "Reading"
+                },
+            "address": {
+                "Chinese": "Leighton Park School" ,
+                "English": "Shinfield Road, Reading, Berkshire RG2 7ED. United Kingdom"
+            },
+            "type": "international",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "RG2 7ED"
+        },
+        {
+            "name": {
+                "Chinese": "罗切斯特独立学院",
+                "English": "Rochester Independent College"
+            },
+            "tuition": "34,650",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://rochester-college.org/",
+            "totalStudents": 345,
+            "totalResidentStudent": 105,
+            "highScore": 72,
+            "description": "<p>学院成立于1984年，是肯特郡一家独特的日间寄宿学校。大多数学生来自英国，其中约25％来自海外。我们舒适的校园住宿环境具有非常国际化的风味，但我们寄宿生中有一半以上是英国人。 RIC是一所真正的本地学校，其重点是在生动，支持和非正式的氛围下实现考试成功。这里没有制服，没有钟声，学生和教职员工都是名副其实的，平均班级人数为8人。我们鼓励学生表达意见，进行批判，创造性和独立思考。他们以优异的考试成绩，对未来的热情以及对自己和他们的教育的信心离开并踏上新的征程。</p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/Rochester-Independent-College.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "",
+                "content": "<p></p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 55,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, A-Levels",
+                "English": "iGCSEs, GCSEs, A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "Rochester" ,
+                 "English": "Rochester"
+                },
+            "address": {
+                "Chinese": "Rochester Independent College" ,
+                "English": "254 St Margaret's Banks, Rochester, Kent ME1 1HY"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly"],
+            "postcode": "ME1 1HY"
+        },
+        {
+            "name": {
+                "Chinese": "Westbourne School",
+                "English": "Westbourne School"
+            },
+            "tuition": "35,850",
+            "sex": "mixed",
+            "age": [
+                
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "https://www.westbourneschool.com",
+            "totalStudents": 285,
+            "totalResidentStudent": 57,
+            "highScore": 90,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/westbourne.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Westbourne School 生活的一天",
+                "content": "<p></p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 10,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": false,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, IB" ,
+                "English": "iGCSEs, GCSEs, IB"
+            },
+            "location": {
+                "Chinese": "威尔士" , 
+                "English": "Wales"
+            },
+            "towns": {
+                "Chinese": "卡迪夫" ,
+                 "English": "Cardiff"
+                },
+            "address": {
+                "Chinese": "Westbourne School" ,
+                "English": "Penarth, CF64 2AJ"
+            },
+            "type": "mainstream",
+            "boardingType": ["full"],
+            "postcode": "CF64 2AJ"
+        },
+        {
+            "name": {
+                "Chinese": "St Christopher School ",
+                "English": "St Christopher School "
+            },
+            "tuition": "34,005",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+            ],
+            "website": "http://stchris.co.uk/",
+            "totalStudents": 540,
+            "totalResidentStudent": 33,
+            "highScore": 49,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/st-chris-logo.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                
+                "headImg": "",
+                "title": "",
+                "content": "<p>每个人都可以自由地做自己，在理解责任的同时，我们所有人都必须使寄宿生活像家一样。 作为一个国际寄宿生，我很幸运能成为寄宿生的一员，那里有来自世界各地的有趣人士。 一起生活在同一所学校使我们能够成为非常亲密的朋友，并度过了愉快的时光” </p>",
+                "student": {
+                    "name": "Molly",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 14.5,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "GCSEs, A-Levels" ,
+                "English": "GCSEs, A-Levels"
+            },
+            "location": {
+                "Chinese": "伦敦" , 
+                "English": "London"
+            },
+            "towns": {
+                "Chinese": "伦敦" ,
+                 "English": "London"
+                },
+            "address": {
+                "Chinese": "Barrington Road, Letchworth Garden City Sg6 3JZ United Kingdom" ,
+                "English": "Barrington Road, Letchworth Garden City Sg6 3JZ United Kingdom"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "Sg6 3JZ"
+        },
+        {
+            "name": {
+                "Chinese": "St Clare's, Oxford",
+                "English": "St Clare's, Oxford"
+            },
+            "tuition": "42,204",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+                
+            ],
+            "website": "http://www.stclares.ac.uk",
+            "totalStudents": 280,
+            "totalResidentStudent": 242,
+            "highScore": 60,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/St-Clares.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "St Clare's, Oxford 生活的一天",
+                "content": "<p>St Clare's, Oxford是一所位于牛津的独立男女同校的寄宿制寄宿学院，提供国际文凭课程文凭已有40多年的历史，比英格兰的其他任何学校都要长。它也是一所IB世界学校。St Clare's, Oxford以其提供IB文凭的专业知识而享誉全球，并且将国际主义和卓越的学业作为其核心价值。来自超过45个国家的学生在St Clare's, Oxford学习。气氛是非正式和友好的，同时强调努力工作和建立个人责任感和相互尊重。该学校一直位列英国IB大学前20名，并且近年来，我们的20名学生获得了最高45分，并获得了全球顶级大学的录取名额。St Clare's, Oxford还提供为期一年的IB预科课程，其中包括2个GCSE和为14至16岁的学生提供的为期两年的中学课程，其中包含IB中学课程（MYP）的内容，并有机会获得5个 IGCSE的数学，英语和科学课程。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 74,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, IB, University foundation programme" ,
+                "English": "iGCSEs, IB, University foundation programme"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "牛津" ,
+                 "English": "Oxford"
+                },
+            "address": {
+                "Chinese": "St Clare's, Oxford" ,
+                "English": "139 Banbury Road, Oxford, OX2 7AL, UK"
+            },
+            "type": "international",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "OX2 7AL"
+        },
+        {
+            "name": {
+                "Chinese": "The Mount, Mill Hill International",
+                "English": "The Mount, Mill Hill International"
+            },
+            "tuition": "42,162",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                }
+                
+            ],
+            "website": "https://www.millhill.org.uk/international/",
+            "totalStudents": 900,
+            "totalResidentStudent": 195,
+            "highScore": 77.1,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/The-Mount-Mill-Hill-International.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "The Mount, Mill Hill International 生活的一天",
+                "content": "<p>在这里，学生齐聚一堂，这是一所鼓舞人心的学校，学生们在这里可以获得国际认可的学历以及变革性的教育和文化经验。在专注于学术发展的同时，我们确保每个学生都可以利用自己的才能，使他们的住宿既丰富又能够从中获益。小学生来自各种各样的文化背景，来到这里，但他们都有共同的学习承诺，强烈的目标意识和很高的期望，创造了每个学生都能实现的积极的学习环境。我们目前的一名学生Alireza说：“我以前从未真正成为社交生活的一部分，但是当我到达英国，尤其是MMHI时，我真的开始享受与其他人在一起并与朋友一起出去的乐趣。对此也非常有帮助”。另一位女士Tasya说，她对学校最喜欢的事情是“我可以与任何老师谈论任何事情，而且我不会感到被评判”。Henan，我们目前的另一个学生，用这三个词形容这所学校“多样化，令人印象深刻，友好”。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 39,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs" ,
+                "English": "iGCSEs, GCSEs"
+            },
+            "location": {
+                "Chinese": "伦敦" , 
+                "English": "London"
+            },
+            "towns": {
+                "Chinese": "伦敦" ,
+                 "English": "London"
+                },
+            "address": {
+                "Chinese": "The Mount, Mill Hill International" ,
+                "English": "Milespit Hill, Mill Hill Village, London NW7 2RX"
+            },
+            "type": "international",
+            "boardingType": ["full","weekly"],
+            "postcode": "NW7 2RX"
+        },
+        {
+            "name": {
+                "Chinese": "King's Ely",
+                "English": "King's Ely"
+            },
+            "tuition": "37,899",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+                
+            ],
+            "website": "https://www.kingsely.org/",
+            "totalStudents": 998,
+            "totalResidentStudent": 182,
+            "highScore": 81,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/Kingsely.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "King's Ely 生活的一天",
+                "content": "<p>Yihang Li于2020年从King's Ely第六年级毕业，目前他在伦敦大学学院学习哲学，政治和经济学。他说：“整个King's Ely社区给与我很多支持。 我得到了课堂内外所有部门的帮助。 这确实塑造了我对学科的学术理解，并激发了我对当前课程的兴趣。 我们也有很多课外活动，例如数学挑战赛和国会参观。”“我的宿舍同时也是见证自己独立成长的地方。导师，员工和本土团队非常友善，能够为我提供最好的环境，以承担责任并挑战自我。”“我绝对喜欢的一件事是步行上课，Ely Cathedral离得很近，我们可以穿越田野参加活动。 Ely本身就是一个了不起的生活场所。”</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 70,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, A-Levels" ,
+                "English": "iGCSEs, GCSEs, A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "Ely, Cambridgeshire " ,
+                 "English": "Ely, Cambridgeshire "
+                },
+            "address": {
+                "Chinese": "King's Ely" ,
+                "English": "King's Ely, Old Palace, Palace Green, Cambridgeshire, CB7 4EW"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "CB7 4EW"
+        },
+        {
+            "name": {
+                "Chinese": "Badminton School",
+                "English": "Badminton School"
+            },
+            "tuition": "39,750",
+            "sex": "girl",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+                
+            ],
+            "website": "https://www.badmintonschool.co.uk/",
+            "totalStudents": 510,
+            "totalResidentStudent": 175,
+            "highScore": 74,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/badminton-school.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Badminton School生活的一天",
+                "content": "<p>在这里，我遇到了一些我永远不想失去联系的人。他们是我的家人，因为我和他们一起在这里长大。我已经在这里学到了一切，这是一段了不起的旅程。您可能会认为寄宿学校是避难所，在这里不仅仅是这样。我已经学会了如何与人交谈，如何与人相处，如何负责任，如何相处并完成工作，以及何时寻求帮助。这给了我在需要帮助和支持之间的健康平衡（因为我们所有人都这样做），但同时又足够独立和自信，可以做我自己，并朝着我想要的方向前进。首先让我震惊的是校园的美丽以及教职员工和学生的热情。我记得第一次来这里的时候，看到玫瑰花丛和雄伟的Northcote建筑，尽管这里位于布里斯托尔（Bristol）的中心位置，但气氛却平静而亲密。我感觉到学生的心态是拥抱机会，而不受失败的恐惧所束缚。有很多机会让自己脱离自己的舒适区。我在达特穆尔（Dartmoor）和布雷肯比肯斯（Brecon Beacons）的日子以及充满挑战的探险条件将永远伴随着我，以及我们加深的友谊和所学的生活技能。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 16,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, A-Levels" ,
+                "English": "iGCSEs, GCSEs, A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰西南" , 
+                "English": "South West England"
+            },
+            "towns": {
+                "Chinese": "布里斯托" ,
+                 "English": "Bristol "
+                },
+            "address": {
+                "Chinese": "Badminton School, Westbury-on-Trym, Bristol BS9 3BA" ,
+                "English": "Badminton School, Westbury-on-Trym, Bristol BS9 3BA"
+            },
+            "type": "international",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "BS9 3BA"
+        },
+        {
+            "name": {
+                "Chinese": "Clifton College",
+                "English": "Clifton College"
+            },
+            "tuition": "37,140",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+                
+            ],
+            "website": "https://www.cliftoncollege.com/",
+            "totalStudents": 737,
+            "totalResidentStudent": 336,
+            "highScore": 81,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/clifton.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Clifton College生活的一天",
+                "content": "<p>我们为学生提供广泛的学术和课外安排，并且以量身定制的教学和生活系统为基础，这对于学院的教学方法至关重要。这样的安排让所有学生产生一种归属感，同时，我们也提供出色的个人照顾。走读和寄宿都可以受益于相同的培养结构，并有房务主管或女宿舍长，助理，护士长和导师，他们为每个学生提供支持和指导。学生在他们的宿舍中形成的牢固的友谊是难能可贵的，他们也在这里积累有价值的基本生活和学习经验。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 16,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels" ,
+                "English": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰西南" , 
+                "English": "South West England"
+            },
+            "towns": {
+                "Chinese": "布里斯托" ,
+                 "English": "Bristol "
+                },
+            "address": {
+                "Chinese": "Clifton College, 32 College Road, Clifton, Bristol, UK BS8 3JH" ,
+                "English": "Clifton College, 32 College Road, Clifton, Bristol, UK BS8 3JH"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "BS8 3JH"
+        },
+        {
+            "name": {
+                "Chinese": "Kingsley School Bideford",
+                "English": "Kingsley School Bideford"
+            },
+            "tuition": "27,435",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+                
+            ],
+            "website": "http://www.kingsleyschoolbideford.co.uk/",
+            "totalStudents": 373,
+            "totalResidentStudent": 68,
+            "highScore": 68,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/Kingsley.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Kingsley School Bideford生活的一天",
+                "content": "<p>http://www.kingsleyschoolbideford.co.uk/life-at-kingsley/</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 148,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "GCSEs, B-TEC (Levels 2 & 3), A-Levels" ,
+                "English": "GCSEs, B-TEC (Levels 2 & 3), A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰西南" , 
+                "English": "South West England"
+            },
+            "towns": {
+                "Chinese": "拜德福德" ,
+                 "English": "Bideford "
+                },
+            "address": {
+                "Chinese": "Kingsley School Bideford, Northdown Road, Bideford, Devon, EX39 3LY" ,
+                "English": "Kingsley School Bideford, Northdown Road, Bideford, Devon, EX39 3LY"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "EX39 3LY"
+        },
+        {
+            "name": {
+                "Chinese": "Mount Kelly",
+                "English": "Mount Kelly"
+            },
+            "tuition": "32,490",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }
+                
+            ],
+            "website": "https://www.mountkelly.com/",
+            "totalStudents": 600,
+            "totalResidentStudent": 230,
+            "highScore": 35,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/Mount-Kelly-Full-Colour-Blue-logo.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Mount Kelly生活的一天",
+                "content": "<p>我对在英国上学感到非常紧张，但在到Mount Kelly的第一刻，我感到在家里一样。每个人都很热情，寄宿老师帮助我安顿下来，并迅速与其他女孩交了朋友。房间既可爱又明亮，最重要的是有很大的储物空间。Mount Kelly的老师很棒，如果你有不理解的事情，他们真的很鼓励并提供帮助。我加入了室内合唱团，去了巴塞罗那，并在伦敦的皇家音乐厅唱歌。合唱团就像一个团队，我们都是非常好的朋友。我会对想加入Mount Kelly的人说–在这里您将拥有最美好的时光，并结交一生的朋友。</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""            
+                }
+            },
+            "airportDistance": 300,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels" ,
+                "English": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰西南" , 
+                "English": "South West England"
+            },
+            "towns": {
+                "Chinese": "Tavistock" ,
+                 "English": "Tavistock"
+                },
+            "address": {
+                "Chinese": "Parkwood Road, Tavistock, Devon PL19 9AD" ,
+                "English": "Parkwood Road, Tavistock, Devon PL19 9AD"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "EX39 3LY"
+        },
+        {
+            "name": {
+                "Chinese": "Sidcot School ",
+                "English": "Sidcot School"
+            },
+            "tuition": "30,900",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                }
+            ],
+            "website": "http://www.sidcot.org.uk",
+            "totalStudents": 582,
+            "totalResidentStudent": 124,
+            "highScore": 44,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/sidcot-portrait-logo.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Sidcot School生活中的一天",
+                "content": "<p>内容待提供</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 13,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, B-TEC (2级和3级), A-Levels, IB, Junior Pathway (11-13岁) and Year 11 Pathway (1年 IGCSE)" ,
+                "English": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels, IB, Junior Pathway (age 11-13) and Year 11 Pathway (1 year IGCSE)"
+            },
+            "location": {
+                "Chinese": "英格兰西南" , 
+                "English": "South West England"
+            },
+            "towns": {
+                "Chinese": "Winscombe" ,
+                 "English": "Winscombe"
+                },
+            "address": {
+                "Chinese": "Oakridge Lane, Winscombe, North Somerset,BS25 1PD" ,
+                "English": "Oakridge Lane, Winscombe, North Somerset,BS25 1PD"
+            },
+            "type": "mainstream",
+            "boardingType": ["full"],
+            "postcode": "BS25 1PD"
+        },
+        {
+            "name": {
+                "Chinese": "Rugby School",
+                "English": "Rugby School"
+            },
+            "tuition": "36,798",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "11",
+                    "max": "16"
+                }
+            ],
+            "website": "http://www.sidcot.org.uk",
+            "totalStudents": 846,
+            "totalResidentStudent": 662,
+            "highScore": 85.6,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/Rugby_Colour_Centre_Bluetext-logo.png",
+            "photos": [],
+            "video": [],
+            "describe": {
+                "headImg": "",
+                "title": "Rugby School生活中的一天",
+                "content": "<p>“这是一所很棒的寄宿学校，在友善并且很有动力的环境中可以提供很多。机会是无穷无尽的，您可以很快融入日常生活。教职工的奉献精神难能可贵。在这里可以拥有更多独立性，这真是太棒了。社交活动和晚餐很有趣。”- Phoebe. </p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 44,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, A-Levels, IB" ,
+                "English": "iGCSEs, GCSEs, A-Levels, IB"
+            },
+            "location": {
+                "Chinese": "英格兰中部" , 
+                "English": "Midlands England"
+            },
+            "towns": {
+                "Chinese": "Rugby" ,
+                 "English": "Rugby"
+                },
+            "address": {
+                "Chinese": "Marketing & Comms, Rugby School, School House, Rugby, Warwickshire CV22 5EH" ,
+                "English": "Marketing & Comms, Rugby School, School House, Rugby, Warwickshire CV22 5EH"
+            },
+            "type": "mainstream",
+            "boardingType": ["full"],
+            "postcode": "CV22 5EH"
+        },
+        {
+            "name": {
+                "Chinese": "Scarborough College",
+                "English": "Scarborough College"
+            },
+            "tuition": "23,859",
+            "sex": "mixed",
+            "age": [
+                {
+                    "min": "4",
+                    "max": "11"
+                },
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }			
+            ],
+            "website": "www.scarboroughcollege.co.uk",
+            "totalStudents": 379,
+            "totalResidentStudent": 96,
+            "highScore": 30,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/scarborough.png",
+            "photos": [],
+            "video": ["//static.westwin.com/ukeducation/video/Scarborough.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "Scarborough College生活中的一天",
+                "content": "<p>“您并不总是在学校。听起来很有趣，但是因为我们不参加在学校坐下来学习的方式，你可以回家，也可以走开。在工作人员在这里不会谈论学校太多，这很好。你只是拥有正常对话。住宿结构良好；我们将准备时间和活动相混合的方式。晚上的结构很清晰，所以我可以专注于学校工作。”- Riley. </p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance": 75,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCE, GCSE & IB Diploma",
+                "English": "iGCE, GCSE & IB Diploma"
+            },
+            "location": {
+                "Chinese": "英格兰中部" , 
+                "English": "Midlands England"
+            },
+            "towns": {
+                "Chinese": "斯卡布罗" ,
+                 "English": "Scarborough"
+                },
+            "address": {
+                "Chinese": "Filey Road, Scarborough, North Yorkshire, YO11 3BA" ,
+                "English": "Filey Road, Scarborough, North Yorkshire, YO11 3BA"
+            },
+            "type": "mainstream",
+            "boardingType": ["full"],
+            "postcode": "YO11 3BA"
+        },
+        {
+            "name": {
+                "Chinese": "Pangbourne College",
+                "English": "Pangbourne College"
+            },
+            "tuition": "12,200",
+            "sex": "mixed",
+            "age": [            
+                {
+                    "min": "11",
+                    "max": "16"
+                },
+                {
+                    "min": "16",
+                    "max": "18"
+                }			
+            ],
+            "website": "https://www.pangbourne.com",
+            "totalStudents": 461,
+            "totalResidentStudent": 212,
+            "highScore": 36,
+            "description": "<p></p>",
+            "logoSrc": "//static.westwin.com/ukeducation/dataImg/pangbourne.png",
+            "photos": [],
+            "video": ["//static.westwin.com/ukeducation/video/Pangbourne.mp4"],
+            "describe": {
+                "headImg": "",
+                "title": "Pangbourne College生活中的一天",
+                "content": "<p>观看视频了解我们的寄宿生的学校生活</p>",
+                "student": {
+                    "name": "",
+                    "age": "",
+                    "location": ""
+                }
+            },
+            "airportDistance":59,
+            "foodChoices": true,
+            "EAL": true,
+            "specialNeeds": true,
+            "publicExaminations": {
+                "Chinese": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels",
+                "English": "iGCSEs, GCSEs, B-TEC (Levels 2 & 3), A-Levels"
+            },
+            "location": {
+                "Chinese": "英格兰东南" , 
+                "English": "South East England"
+            },
+            "towns": {
+                "Chinese": "Pangbourne, Reading" ,
+                 "English": "Pangbourne, Reading"
+                },
+            "address": {
+                "Chinese": "Pangbourne  Reading, Berkshire, RG8 8LA" ,
+                "English": "Pangbourne  Reading, Berkshire, RG8 8LA"
+            },
+            "type": "mainstream",
+            "boardingType": ["full","weekly","flexi"],
+            "postcode": "RG8 8LA"
+        }
+    ]
+}

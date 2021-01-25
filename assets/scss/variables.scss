@@ -1,0 +1,13 @@
+$rootWidth: 1200px;
+$baseColor: #318FF3;
+$changeColor: #1268DB;
+
+@mixin clearfix {
+    &::after {
+        content: '';
+        display: block;
+        height: 0;
+        clear: both;
+        visibility: hidden;
+    }
+}

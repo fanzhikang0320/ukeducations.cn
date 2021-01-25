@@ -1,0 +1,310 @@
+.university-wrapper {
+    .banner-area {
+        width: 100%;
+        height: 160px;
+        background-image: url('../assets/image/sky-banner.jpg');
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+        .website-title {
+            font-size: 48px;
+            color: #ffffff;
+            font-family: 'PangMenZhengDao';
+        }
+
+        @media screen and (max-width: 750px){
+            height: 80px;
+            .website-title {
+                font-size: 22px;
+            }
+        }
+    }
+
+    .university-container {
+        width: $rootWidth;
+        margin: 0 auto;
+        
+        .university-content {
+            margin-top: 30px;
+            margin-bottom: 70px;
+            .desc {
+                line-height: 30px;
+                
+            }
+            .img-list {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin: 10px 0px;
+                
+                li {
+                    font-size: 20px;
+                    color: #2F8FF3;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    .icon {
+                        font-size: 40px;
+                    }
+                    .text {
+                        font-weight: bold;
+                    }
+                }
+            }
+        }
+
+        .ranking-area {
+            @include clearfix;
+            margin-bottom: 100px;
+            .ranking-title-box {
+                display: flex;
+                .title {
+                    font-size: 28px;
+                    color: #535353;
+                    margin-right: 120px;
+                }
+
+                .btn-box{
+                    button {
+                        outline: none;
+                        background-color: #ffffff;
+                        border-radius: 5px;
+                        height: 40px;
+                        cursor: pointer;
+                        border-width: 1px;
+                        border-style: solid;
+                        font-weight: bold;
+                        margin-right: 20px;
+                        .text {
+                            position: relative;
+                        }
+                        .icon {
+                            display: none;
+                            position: absolute;
+                            right: -18px;
+                            top: 50%;
+                            font-size: 20px;
+                            transform: translateY(-50%);
+                        }
+                        &.current {
+                            .icon {
+                                display: inline-block;
+                            }
+                        }
+                        &.all-btn,&.times-btn,&.guardian-btn  {
+                            width: 140px;
+                            
+                        }
+
+                        &.all-btn {
+                            border-color: #2F8FF3;
+                            color:  #2F8FF3;
+                            &.current {
+                                background-color: #2F8FF3;
+                                color: #ffffff;
+                                
+                            }
+                        }
+                        &.times-btn {
+                            border-color:#101010;
+                            color: #101010;
+                            &.current {
+                                background-color: #101010;
+                                color: #ffffff;
+                            }
+                        }
+                        &.guardian-btn {
+                            border-color: #046262;
+                            color:  #046262;
+                            &.current {
+                                background-color: #046262;
+                                color: #ffffff;
+                            }
+                        }
+                        &.arwu-btn {
+                            width: 175px;
+                            border-color: #0057F4;
+                            color: #0057F4;
+                            &.current {
+                                background-color: #0057F4;
+                                color: #ffffff;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .ranking-list {
+                width: 1200px;
+                margin-top: 20px;
+                
+                .list-item {
+                    width: 100%;
+                    
+                    height: 80px;
+                    padding: 0 15px 0px 20px;
+                    box-sizing: border-box;
+                    border: 1px solid #bbbbbb;
+                    background-color: #ffffff;
+                    font-size: 22px;
+                    margin-bottom: 10px;
+                    transition: all linear 0.1s;
+                    .list-item-container {
+                        display: flex;
+                        align-items: center;
+                        width: 100%;
+                        height: 100%;
+                        box-sizing: border-box;
+                        text-decoration: none;
+                    }
+                    &:hover {
+                        background-color: #EFF7FF;
+                        box-shadow: 0px 2px 6px 0px rgba(0,0,0,.4);
+                        border: none;
+                    }
+                    .item-left {
+                        flex: 2;
+                        white-space: nowrap;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        color: #101010;
+                        .logo {
+                            display: inline-block;
+                            width: 40px;
+                            height: 40px;
+                            margin-right: 35px;
+                            vertical-align: middle;
+                        }
+                        .name {
+                            color: #353535;
+                            vertical-align: middle;
+                        }
+                    }
+                    .item-center {
+                        flex: 3;
+                        display: flex;
+                        justify-content: space-between;
+
+                        .all-ranking {
+                            font-weight: bold;
+                            color: #2F8FF3;
+                            margin-left: 60px;
+                        }
+                        .times-ranking {
+                            color: #101010;
+                        }
+                        .guardian-ranking {
+                            color: #046262;
+                        }
+                        .arwu-ranking {
+                            color: #0057F4;
+                        }
+                    }
+                    .more {
+                        flex: 1;
+                        text-align: right;
+                        font-size: 20px;
+                        font-weight: bold;
+                        font-style: italic;
+                        color: #2F8FF3;
+                        text-decoration-line: underline;
+                        text-decoration-color: #2F8FF3;
+                    }
+                }
+            }
+
+            .ant-pagination {
+                float: right;
+                margin-top: 20px;
+            }
+            
+        }
+
+        @media screen and (max-width: 750px){
+            width: 100%;
+            padding: 0 10px;
+            box-sizing: border-box;
+            .university-content {
+
+                .desc {
+                    font-size: 13px;
+                }
+
+                .img-list {
+                    justify-content: space-around;
+                    li {
+                        margin: 15px 20px;
+                        font-size: 13px;
+                    }
+                }
+            }
+
+            .ranking-area {
+
+                .ranking-title-box {
+                    flex-direction: column;
+                    .title {
+                        align-self: center;
+                        font-size: 16px;
+                        margin-right: 0;
+                    }
+
+                    .btn-box {
+                        align-self: flex-end;
+                        margin-top: 15px;
+                        button {
+                            font-size: 12px;
+                            height: 30px;
+                            margin-right: 0;
+                            .icon {
+                                font-size: 12px;
+                            }
+                            .t {
+                                display: none;
+                            }
+                            .text .icon {
+                                display: none;
+                            }
+                            &.all-btn,&.times-btn,&.guardian-btn,&.arwu-btn  {
+                                width: auto;
+                                padding: 0 10px;
+                            }
+
+                        }
+                    }
+                }
+                .ranking-list {
+                    width: 100%;
+                    .list-item {
+                        font-size: 18px;
+                        padding: 0 5px;
+                        
+                        .item-left {
+                            display: flex;
+                            flex-direction: column;
+                            flex: 1;
+                            .name {
+                                font-size: 12px;
+                            }
+                        }
+                        .item-center {
+                            flex: 3;
+                            justify-content: space-around;
+                            .all-ranking {
+                                margin-left: 0;
+                            }
+                        }
+                        .more {
+                            display: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
