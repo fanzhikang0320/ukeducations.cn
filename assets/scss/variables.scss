@@ -11,3 +11,10 @@ $changeColor: #1268DB;
         visibility: hidden;
     }
 }
+
+@mixin bg($url) {
+    background-image: url($url);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}

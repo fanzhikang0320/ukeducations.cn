@@ -22,6 +22,7 @@
     </header>
     <main class="main-app">
       <Nuxt />
+      <Popup ref="globalPopup" />
     </main>
     <footer>
       <div class="footer-container">
@@ -72,6 +73,11 @@
 </template>
 <script>
 export default {
+  data() {
+    return {
+      timer: null
+    }
+  },
   methods: {
     showNav() {
       $('header .header-container .main-nav').slideToggle('fast');
@@ -86,6 +92,14 @@ export default {
       }
       
     })
+
+    this.timer = setTimeout(() => {
+      this.$refs.globalPopup.openPopup();
+      clearTimeout(this.timer);
+    },15000)
+  },
+  beforeDestroy() {
+    clearTimeout(this.timer);
   }
 }
 </script>

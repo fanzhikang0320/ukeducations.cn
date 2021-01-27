@@ -64,8 +64,44 @@ export default {
         remUnit: 100
       })
     ],
-    vendor: ['axios','ant-design-vue'],
-   
+    optimization: {
+      minimize: true,
+      // 控制分包，但总体积不变，效果不大
+      splitChunks: {
+        chunks: 'all',
+        automaticNameDelimiter: '.',//控制新生成的名字连接符号
+        maxAsyncRequests: 5,
+        maxSize: 300000, //每个包的最大字节（慎用ß）
+
+        cacheGroups: {
+          antdesignvue: {
+            test: /node_modules[\\/]ant-design-vue/,
+            chunks: 'all',
+            priority: 20,
+            name: true
+          },
+          vuelazyload: {
+            test: /node_modules[\\/]vue-lazyload/,
+            chunks: 'all',
+            priority: 20,
+            name: true
+          },
+          axios: {
+            test: /node_modules[\\/]axios/,
+            chunks: 'all',
+            priority: 20,
+            name: true
+          },
+          jquery: {
+            test: /node_modules[\\/]axios/,
+            chunks: 'all',
+            priority: 20,
+            name: true
+          }
+
+        }
+      }
+    },
     babel: {
       plugins: [
         ["import", { "libraryName": "ant-design-vue", "libraryDirectory": "es", "style": "css" }]
@@ -74,10 +110,10 @@ export default {
     transpile: [/^ant-design-vue/]
   },
   axios: {
-    baseURL: ''
+    baseURL: 'http://192.168.50.171:8888'
   },
   server: {
     port: '8888',
-    host: '127.0.0.1'
+    host: '192.168.50.171'
   }
 }
