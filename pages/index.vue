@@ -53,11 +53,11 @@
             <div class="card-item">
                 <div class="card-left">
                     <div class="info-box">
-                        <img src="@/assets/image/uk_cofunder.png" alt="" class="avatar">
+                        <img src="@/assets/image/baisis_director.png" alt="" class="avatar">
                         <div class="info">
                             <img src="@/assets/image/new_uk.png" alt="UK EDUCATIONS GUIDE" class="logo">
                             <div class="desc-box">
-                                <p class="desc">联合创始人 ｜ Cofunder</p>
+                                <p class="desc">联合创始人 ｜ Cofounder</p>
                                 <div class="name-box">
                                     <strong class="e">Pat Moores</strong>
                                     <strong class="c">帕特·摩尔女士</strong>
@@ -78,8 +78,7 @@
                         
                     </div>
                     <div class="content">
-                        <p>该指南将帮助您概览英国最好的寄宿学校，如果您希望我们帮助您的</p>
-                        <p>孩子在指南中推荐的学校就读，我们将向您介绍我们的英国官方招生 合作伙伴–英国教育指南。《英国教育指南》将为您的孩子提供最好 的英国学校。他们将根据您孩子的经验，能力和未来计划向您提供 “学校入围名单”。在您的孩子获得学校入围名单上的英国学校的录取 通知之前，注册服务是免费的。《英国教育指南》不服务于任何特定 的英国学校，这种完全独立性可确保您的孩子在其能力范围内获得最 好的英国学校的录取通知书，这对他们来说无疑是最正确的选择。</p>
+                        <p>该指南将帮助您概览英国最好的寄宿学校，如果您希望我们帮助您的孩子在指南中推荐的学校就读，我们将向您介绍我们的英国官方招生合作伙伴–英国教育指南。《英国教育指南》将为您的孩子提供最好的英国学校。他们将根据您孩子的经验，能力和未来计划向您提供 “学校入围名单”。在您的孩子获得学校入围名单上的英国学校的录取通知之前，注册服务是免费的。《英国教育指南》不服务于任何特定的英国学校，这种完全独立性可确保您的孩子在其能力范围内获得最好的英国学校的录取通知书，这对他们来说无疑是最正确的选择。</p>
                     </div>
                     <div class="baisis-box">
                         <p>
@@ -94,7 +93,7 @@
                             <li>监护人</li>
                             <li>最终选择</li>
                             <li>签证支持</li>
-                            <li>达到英国</li>
+                            <li>到达英国</li>
                         </ul>
                         
                     </div>
@@ -108,7 +107,7 @@
             <div class="card-item">
                 <div class="card-left">
                     <div class="info-box">
-                        <img src="@/assets/image/baisis_director.png" alt="BASIS" class="avatar">
+                        <img src="@/assets/image/uk_cofunder.png" alt="BASIS" class="avatar">
                         <div class="info">
                             <img src="@/assets/image/baisis.png" alt="BASIS" class="logo">
                             <div class="desc-box">
@@ -122,7 +121,7 @@
                         </div>
                     </div>
                     <div class="slogan-box">
-                        <p><strong>“ 我们很高兴英国教育指南和他们的合作伙伴Westwin选择 的学校反映了这样一个事实，即为国际学生提供最高学 术和教育标准的英国寄宿学校很可能是BAISIS的成员。”</strong></p>
+                        <p><strong>“ 我们很高兴英国教育指南和他们的合作伙伴Westwin选择的学校反映了这样一个事实，即为国际学生提供最高学术和教育标准的英国寄宿学校很可能是BAISIS的成员。”</strong></p>
                     </div>
                 </div>
                 <div class="card-right">
@@ -132,7 +131,7 @@
                         
                     </div>
                     <div class="content">
-                        <p>该指南重点介绍了BAISIS会员学校，以确保为您的孩子提供最高水平的英国教育和最佳的学习体验。英国国际学生独立学校联合会（BAISIS）定义并分享了英国独立学校国际学生在学术和教牧方面的最佳实践。作为寄宿学校协会集团的一部分，BSA集团的声誉，实力和热情支持了BAISIS在英国为国际学生提供的学术和牧区服务方面的专业知识。</p>
+                        <p>该指南重点介绍了BAISIS会员学校，以确保为您的孩子提供最高水平的英国教育和最佳的学习体验。英国国际学生独立学校联合会（BAISIS）定义并分享了英国独立学校国际学生在学术和教牧方面的最佳实践。作为寄宿学校协会集团的一部分，BSA集团的声誉、实力和热情支持了BAISIS在英国为国际学生提供的学术和牧区服务方面的专业知识。</p>
                     </div>
                     <div class="baisis-box">
                         <p>
@@ -189,7 +188,7 @@
                             <img src="@/assets/image/new_AEGIS.png" alt="AEGIS" class="logo aegsin-logo">
                         </div>
                     </div>
-                    <p class="text">AEGIS是英国唯一的监护组织独立认证机 构，并提供强大，完善的检查流程。</p>
+                    <p class="text">AEGIS是英国唯一的监护组织独立认证机构，并提供强大，完善的检查流程。</p>
                     
                 </div>
                 <div class="card-right">
@@ -199,7 +198,7 @@
                         
                     </div>
                     <div class="content">
-                        <p>国际学生教育和监护协会(AEGIS)保护在英国学校，学院和大学学习的国际 学生的福利，使他们感到安全，受到欢迎和照顾。 AEGIS是英国唯一一个对监护组织进行严格检查的独立机构。这意味着，所有 经过AEGIS认可的监护组织都已通过全面检查，以保护学生及其商业行为，因 此您可以确保您的孩子安全无虞。</p>
+                        <p>国际学生教育和监护协会(AEGIS)保护在英国学校，学院和大学学习的国际学生的福利，使他们感到安全，受到欢迎和照顾。 AEGIS是英国唯一一个对监护组织进行严格检查的独立机构。这意味着，所有经过AEGIS认可的监护组织都已通过全面检查，以保护学生及其商业行为，因此您可以确保您的孩子安全无虞。</p>
                     </div>
                     
                     <a href="https://www.aegisuk.net" target="_blank" rel="noopener noreferrer nofollow" class="btn">访问AEGIS</a>

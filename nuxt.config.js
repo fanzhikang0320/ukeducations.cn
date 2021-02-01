@@ -63,6 +63,7 @@ export default {
       require('postcss-px2rem')({
         remUnit: 100
       })
+    
     ],
     optimization: {
       minimize: true,
@@ -110,10 +111,10 @@ export default {
     transpile: [/^ant-design-vue/]
   },
   axios: {
-    baseURL: 'http://192.168.50.171:8888'
+    baseURL: 'http://127.0.0.1:8888'
   },
   server: {
     port: '8888',
-    host: '192.168.50.171'
+    host: '127.0.0.1'
   }
 }

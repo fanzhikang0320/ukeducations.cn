@@ -92,7 +92,7 @@ export default {
       }
       
     })
-
+    
     this.timer = setTimeout(() => {
       this.$refs.globalPopup.openPopup();
       clearTimeout(this.timer);

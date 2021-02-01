@@ -12,6 +12,7 @@
                     <p class="blue">《2021英国留学指南》</p>
                 </div>
             </div>
+            <img src="@/assets/image/book.png" alt="" class="pic">
             <form @submit.prevent="submitForm" class="form">
                 <label>
                     <input type="text" class="inp" autocomplete="off" placeholder="您的电话号码" v-model="form.phoneNumbers" />
@@ -19,7 +20,7 @@
                 
                 <label class="code-label">
                     <input type="text" class="code-inp" autocomplete="off" placeholder="验证码" v-model="form.code">
-                    <button type="button" :class="{'code-btn': true, 'disabled': isCodeIng }" :disabled="isCodeIng" @click.stop="getAuthCode">{{codeTxt}}</button>
+                    <button type="button" :class="{'code-btn': true, 'disabled': isCodeIng, 'isNull': isNull }" :disabled="isCodeIng" @click.stop="getAuthCode">{{codeTxt}}</button>
                 </label>
                 <button type="submit" class="btn">立即领取</button>
             </form>
@@ -37,9 +38,25 @@ export default {
             form: {
                 phoneNumbers: '',
                 code: '',
+                name: '匿名用户'
             },
             isCodeIng:false,//是否倒计时
             codeTxt:'发送验证码',
+            isNull: true
+        }
+    },
+    watch: {
+        
+        form: {
+            handler: function (newValue) {
+                if (newValue.phoneNumbers == '') {
+                    this.isNull = true;
+                } else {
+                    this.isNull = false;
+                }
+            },
+            deep: true,
+            immediate: true
         }
     },
     methods: {
@@ -113,20 +130,20 @@ export default {
                 //判断验证码是否有效
                 const verRes = await verification({phoneNumbers: this.form.phoneNumbers,code: this.form.code},this.$axios);
                 if (verRes.data.code == 1) {
-                // 发送邮件
-                const mailRes = await sendMail({name: this.form.name,phoneNumbers: this.form.phoneNumbers},this.$axios);
-                
-                if (mailRes.data.OPSucess) {
-
-                    this.resetForm();
-                    this.download();
-                    this.$message.success({content: '感谢您的信任，我们将在第一时间与您联络',key,duration: 2});
+                    // 发送邮件
+                    const mailRes = await sendMail({name: this.form.name,phoneNumbers: this.form.phoneNumbers},this.$axios);
                     
-                } else {
+                    if (mailRes.data.OPSucess) {
 
-                    this.$message.error({content: '提交失败，请刷新页面重试',key,duration: 2});
+                        this.resetForm();
+                        this.download();
+                        this.$message.success({content: '感谢您的信任，我们将在第一时间与您联络',key,duration: 2});
+                        
+                    } else {
 
-                }
+                        this.$message.error({content: '提交失败，请刷新页面重试',key,duration: 2});
+
+                    }
 
                 } else {
                     this.$message.error({content: '验证码已失效，请重新获取',key,duration: 2});
@@ -142,7 +159,8 @@ export default {
         resetForm() {
             this.form = {
                 code: '',
-                phoneNumbers: ''
+                phoneNumbers: '',
+                name: '匿名用户'
             }
         },
         // 下载

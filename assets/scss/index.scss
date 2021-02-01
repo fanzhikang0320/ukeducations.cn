@@ -9,7 +9,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background-image: url("../assets/image/home-banner.jpg");
+        background-image: url("../assets/image/home-banner.jpeg");
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -369,7 +369,7 @@
 
                     width: 60px;
                     height: 60px;
-                    margin: 0 10px;
+                    margin: 0 6px;
                 }
                 img {
                     width: 28px;
@@ -388,7 +388,7 @@
             height: 726px;
             margin-top: 40px;
             .show_info_title {
-                width: 386px;
+                // width: 386px;
                 text-align: center;
             }
             .img_desc_box {
@@ -419,6 +419,68 @@
             }
         }
         
+        .partners-area {
+            .area-title {
+                margin-top: 22px;
+                margin-bottom: 34px;
+
+                padding: 0 24px;
+                font-size: 24px;
+
+                text-align: center;
+            }
+            .card-list {
+                .card-item {
+                    width: 100%;
+                    padding: 12px;
+                    margin-bottom: 12px;
+                    flex-direction: column;
+                    align-items: center;
+                    .card-left {
+                        margin-right: 0;
+                        width: 100%;
+                    }
+                    .card-right {
+
+                        .title-box {
+                            display: none;
+                        }
+                        .content {
+                            font-size: 14px;
+                            margin-top: 24px;
+                        }
+                        .baisis-box {
+                            .baisis-list {
+                                flex-wrap: wrap;
+                                background-image: linear-gradient(to right, transparent, transparent);
+
+                                li {
+                                    width: 112px;
+                                    flex: none;
+                                    margin-bottom: 10px;
+                                    background-image: linear-gradient(90deg,#add2fa,#318ff3);
+                                }
+                            }
+
+                            .list {
+                                flex-wrap: wrap;
+                                justify-content: flex-start;
+                                li {
+                                    margin-right: 18px;
+                                    .num {
+                                        font-size: 32px;
+                                    }
+                                }
+                            }
+                        }
+
+                        .btn {
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+        }
         
     }
 }

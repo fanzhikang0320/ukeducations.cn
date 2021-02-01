@@ -31,11 +31,11 @@
         <div class="card-item">
                 <div class="card-left">
                     <div class="info-box">
-                        <img src="@/assets/image/uk_cofunder.png" alt="" class="avatar">
+                        <img src="@/assets/image/baisis_director.png" alt="" class="avatar">
                         <div class="info">
                             <img src="@/assets/image/new_uk.png" alt="UK EDUCATIONS GUIDE" class="logo">
                             <div class="desc-box">
-                                <p class="desc">联合创始人 ｜ Cofunder</p>
+                                <p class="desc">联合创始人 ｜ Cofounder</p>
                                 <div class="name-box">
                                     <strong class="e">Pat Moores</strong>
                                     <strong class="c">帕特·摩尔女士</strong>
@@ -56,8 +56,7 @@
                         
                     </div>
                     <div class="content">
-                        <p>该指南将帮助您概览英国最好的寄宿学校，如果您希望我们帮助您的</p>
-                        <p>孩子在指南中推荐的学校就读，我们将向您介绍我们的英国官方招生 合作伙伴–英国教育指南。《英国教育指南》将为您的孩子提供最好 的英国学校。他们将根据您孩子的经验，能力和未来计划向您提供 “学校入围名单”。在您的孩子获得学校入围名单上的英国学校的录取 通知之前，注册服务是免费的。《英国教育指南》不服务于任何特定 的英国学校，这种完全独立性可确保您的孩子在其能力范围内获得最 好的英国学校的录取通知书，这对他们来说无疑是最正确的选择。</p>
+                        <p>该指南将帮助您概览英国最好的寄宿学校，如果您希望我们帮助您的孩子在指南中推荐的学校就读，我们将向您介绍我们的英国官方招生合作伙伴–英国教育指南。《英国教育指南》将为您的孩子提供最好的英国学校。他们将根据您孩子的经验，能力和未来计划向您提供 “学校入围名单”。在您的孩子获得学校入围名单上的英国学校的录取通知之前，注册服务是免费的。《英国教育指南》不服务于任何特定的英国学校，这种完全独立性可确保您的孩子在其能力范围内获得最好的英国学校的录取通知书，这对他们来说无疑是最正确的选择。</p>
                     </div>
                     <div class="baisis-box">
                         <p>
@@ -72,11 +71,11 @@
                             <li>监护人</li>
                             <li>最终选择</li>
                             <li>签证支持</li>
-                            <li>达到英国</li>
+                            <li>到达英国</li>
                         </ul>
                         
                     </div>
-                    <a href="www.ukeducationguide.com" target="_blank" rel="noopener noreferrer nofollow" class="btn">访问 UK EDUCATIONS GUIDE </a>
+                    <a href="https://www.ukeducationguide.com" target="_blank" rel="noopener noreferrer nofollow" class="btn">访问 UK EDUCATIONS GUIDE </a>
                     
 
                 </div>
