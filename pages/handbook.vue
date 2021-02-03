@@ -56,7 +56,7 @@
                           <button type="button" :class="{'code-btn': true, 'disabled': isCodeIng, 'isNull': isNull }" :disabled="isCodeIng" @click.stop="getAuthCode">{{codeTxt}}</button>
                       </label>
                       <button type="submit" class="btn" v-if="!isSuccess">立即领取《2021英国教育指南》</button>
-                      <a href="/data/handlebook.pdf" class="aBtn btn" v-else download="2021英国教育指南.pdf">点我下载</a>
+                      <a href="/data/handlebook.pdf" class="aBtn btn" v-else download="2021英国教育指南.pdf" @click="resetForm">点我下载</a>
                   </form>
               </div>
           </div>
@@ -174,10 +174,8 @@ export default {
                     const mailRes = await sendMail({name: this.form.name,phoneNumbers: this.form.phoneNumbers},this.$axios);
                     
                     if (mailRes.data.OPSucess) {
-
-                        this.resetForm();
                         this.isSuccess = true; // 将按钮替换为下载按钮
-                        // this.download();
+
                         this.$message.success({content: '感谢您的信任，我们将在第一时间与您联络',key,duration: 2});
                         
                     } else {
@@ -204,18 +202,7 @@ export default {
                 name: '匿名用户'
             },
             this.isSuccess = false;
-        },
-        // 下载
-        // download() {
-        //     let a = document.createElement('a');
-        //     let event = new MouseEvent('click');
-        //     a.download = '2021英国教育指南.pdf';
-        //     a.href = '/data/handlebook.pdf';
-
-        //     a.dispatchEvent(event);
-        // }
-    },
-    mounted() {
+        }
     }
 }
 </script>
