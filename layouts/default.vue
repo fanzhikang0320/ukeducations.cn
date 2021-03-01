@@ -13,7 +13,7 @@
         <nav class="main-nav">
             <nuxt-link to="/" rel="noopener noreferrer" exact class="a">首页</nuxt-link>
             <nuxt-link to="/school" rel="noopener noreferrer" class="a">寄宿学校</nuxt-link>
-            <nuxt-link to="/university" rel="noopener noreferrer" class="a">热门大学</nuxt-link>
+            <!-- <nuxt-link to="/university" rel="noopener noreferrer" class="a">热门大学</nuxt-link> -->
             <nuxt-link to="/entrance" rel="noopener noreferrer" class="a">入学相关</nuxt-link>
             <nuxt-link to="/news" rel="noopener noreferrer" class="a">最新资讯</nuxt-link>
             <nuxt-link to="/contact" rel="noopener noreferrer" class="contact a" >联系我们</nuxt-link>
@@ -37,7 +37,7 @@
                         <nuxt-link to="/school" rel="noopener noreferrer"  class="a">寄宿学校</nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/university" rel="noopener noreferrer" class="a">热门大学</nuxt-link>
+                        <!-- <nuxt-link to="/university" rel="noopener noreferrer" class="a">热门大学</nuxt-link> -->
                     </li>
                     <li>
                         <nuxt-link to="/entrance" rel="noopener noreferrer" class="a">入学相关</nuxt-link>

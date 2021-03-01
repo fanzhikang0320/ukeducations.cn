@@ -83,7 +83,7 @@
                     color: #535353;
                     margin-bottom: 20px;
                     display: flex;
-                    align-items: center;
+                    // align-items: center;
 
                     &:nth-last-of-type(1) {
                         margin-bottom: 0;
@@ -92,12 +92,14 @@
                         color: #353535;
                         font-size: 18px;
                         margin-right: 30px;
+                        flex-shrink: 0;
                     }
                     .group-box {
                         .ant-checkbox-group {
                             .ant-checkbox-wrapper {
                                 font-size: 16px;
-
+                                margin-left: 0;
+                                margin-bottom: 5px;
                                 .ant-checkbox {
                                     .ant-checkbox-inner {
                                         width: 20px;

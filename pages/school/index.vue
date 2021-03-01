@@ -74,6 +74,40 @@
             </div>
           </div>
           <div class="conditions-item">
+            <span class="conditions-title">地区：</span>
+            <div class="group-box">
+              <a-checkbox-group @change="changeAddress" v-model="filter.address">
+                <a-checkbox value="london">
+                 伦敦
+                </a-checkbox>
+                <a-checkbox value="southeastengland">
+                  英格兰东南部
+                </a-checkbox>
+                <a-checkbox value="southwestengland">
+                 英格兰西南部
+                </a-checkbox>
+                <a-checkbox value="centralengland">
+                  英格兰中部
+                </a-checkbox>
+                <a-checkbox value="northwestengland">
+                  英格兰西北部
+                </a-checkbox>
+                <a-checkbox value="northeastengland">
+                  英格兰东北部
+                </a-checkbox>
+                <a-checkbox value="wales">
+                  威尔士
+                </a-checkbox>
+                <a-checkbox value="scotland">
+                  苏格兰
+                </a-checkbox>
+                <a-checkbox value="northernireland">
+                  北爱尔兰
+                </a-checkbox>
+              </a-checkbox-group>
+            </div>
+          </div>
+          <div class="conditions-item">
             <span class="conditions-title">学校类型：</span>
             <div class="group-box">
               <a-radio-group v-model="filter.school_type" @change="changeSchoolType">
@@ -486,7 +520,8 @@ export default {
         boarders_total: 0,
         // results: [0,100],
         sliderMin: 0,
-        sliderMax: 100
+        sliderMax: 100,
+        address: []
       },
       total: 0, //数据总量
       pageSize: 10, // 每页显示数据的条数
@@ -601,7 +636,8 @@ export default {
         student_total: 0,
         boarders_total: 0,
         sliderMin: 0,
-        sliderMax: 100
+        sliderMax: 100,
+        address: []
       };
 
       this.filterData(this.schoolAllData);
@@ -620,6 +656,10 @@ export default {
     },
     changeAccommodation(checkedValue) {
       this.filter.accommodation = checkedValue;
+      this.filterData(this.schoolAllData);
+    },
+    changeAddress(checkedValue) {
+      this.filter.address = checkedValue;
       this.filterData(this.schoolAllData);
     },
     changeSchoolType(e) {
@@ -785,13 +825,25 @@ export default {
       return num >= this.filter.sliderMin && num <= this.filter.sliderMax;
     },
     /**
+     * @name: 根据筛选地址进行判断
+     * @param {String}
+     * @return {Boolean}
+     */
+    judgeAddress(address) {
+      if (this.filter.address.length == 0) {
+        return true;
+      }
+      let newAddress = address.replace(/\s+/g,"").toLowerCase();
+      return this.filter.address.includes(newAddress);
+    },
+    /**
      * @name: 过滤筛选数据
      * @param {*} originData
      * @return {*}
      */
     filterData(originData) {
       let data = originData.filter(ele => {
-        return this.judgeSearchWord(ele.name) && this.judgeSex(ele.sex) && this.judgeAge(ele.age) && this.judgeAccommodation(ele.boardingType) && this.judgeSchoolType(ele.type) && this.judgeStudentTotal(ele.totalStudents) && this.judgeBoardersTotal(ele.totalResidentStudent,ele.totalStudents) && this.judgeResults(ele.highScore);
+        return this.judgeSearchWord(ele.name) && this.judgeSex(ele.sex) && this.judgeAge(ele.age) && this.judgeAccommodation(ele.boardingType) && this.judgeSchoolType(ele.type) && this.judgeStudentTotal(ele.totalStudents) && this.judgeBoardersTotal(ele.totalResidentStudent,ele.totalStudents) && this.judgeResults(ele.highScore) && this.judgeAddress(ele.location.English);
       });
 
       this.currentPage = 1;//每次筛选完成后重置当前页

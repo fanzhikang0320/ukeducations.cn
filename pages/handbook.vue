@@ -169,6 +169,7 @@ export default {
                 
                 //判断验证码是否有效
                 const verRes = await verification({phoneNumbers: this.form.phoneNumbers,code: this.form.code},this.$axios);
+                
                 if (verRes.data.code == 1) {
                     // 发送邮件
                     const mailRes = await sendMail({name: this.form.name,phoneNumbers: this.form.phoneNumbers},this.$axios);
